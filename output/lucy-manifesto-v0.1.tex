@@ -1,0 +1,113 @@
+\documentclass[11pt]{article}
+\usepackage[margin=1in]{geometry}
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage{lmodern}
+\usepackage{hyperref}
+\usepackage{booktabs}
+
+\title{Lucy Manifesto v0.1 Gate Package}
+\author{The Lucy Manifesto Project}
+\date{\today}
+
+\begin{document}
+\maketitle
+
+\section{Intent}
+This document consolidates the v0.1 gate logic and artifacts for the Lucy revitalization effort.
+It is based on the cleaned source material and translates author intent into an engineering baseline.
+
+\section{Core Position}
+\begin{itemize}
+  \item Lucy is a developmental intelligence platform, not a scripted robot product.
+  \item Intelligence must emerge from embodied sensorimotor loops.
+  \item Distributed, low-power compute is the preferred implementation path.
+\end{itemize}
+
+\section{Manifesto v0.1 Summary}
+\begin{itemize}
+  \item Preserve body-first intelligence and biologically meaningful sensing/actuation.
+  \item Move from PIC-era distributed control to GA144 manycore distributed runtime.
+  \item Prioritize calibration, reflex loops, and stable closed-loop behavior before symbolic features.
+  \item Keep scope to torso/head/arms for v0.1; defer full biped and production design.
+\end{itemize}
+
+\section{Requirements Baseline}
+\subsection*{Functional}
+\begin{itemize}
+  \item R1: Execute distributed real-time control/perception on GA144 fabric.
+  \item R2: Deterministic message passing between sensor, motor, and integration modules.
+  \item R3: Calibration and closed-loop control for at least 3--4 controllable DoF.
+  \item R4: Reduced, contrast-focused vision preprocessing output.
+  \item R5: Banded audio features and directional cue output from dual microphones.
+  \item R6: Virtual-muscle style command interface at high level.
+  \item R7: Timestamped telemetry for sensor, motor, and safety events.
+\end{itemize}
+
+\subsection*{Safety}
+\begin{itemize}
+  \item S1: Joint range enforcement.
+  \item S2: Current/thermal guard enforcement where available.
+  \item S3: Watchdog-triggered safe-mode behavior on timeout/comm failure.
+  \item S4: Repeatable startup calibration with fail-safe abort on invalid calibration.
+\end{itemize}
+
+\subsection*{Non-Functional}
+\begin{itemize}
+  \item N1: Stable control-loop timing sufficient to avoid baseline oscillation.
+  \item N2: Graceful degradation under non-critical module failure.
+  \item N3: Externalized configuration/calibration parameters.
+  \item N4: Full requirement-to-test traceability.
+\end{itemize}
+
+\section{GA144 Architecture (v0.1)}
+\begin{itemize}
+  \item M1 Sensor Ingest
+  \item M2 Perception Preprocess
+  \item M3 Integration/Reflex
+  \item M4 Motor Interface
+  \item M5 Safety Supervisor
+  \item M6 Telemetry
+\end{itemize}
+
+\subsection*{Messaging Model}
+\begin{itemize}
+  \item Deterministic message passing with fixed schemas.
+  \item Control-relevant messages include timestamp, source ID, sequence, and payload version.
+\end{itemize}
+
+\subsection*{Startup and Safety}
+\begin{itemize}
+  \item Startup phases: hardware check, sensor sanity, calibration, closed-loop readiness.
+  \item Failure classes: recoverable transient, degraded operation, fatal/safe-stop.
+\end{itemize}
+
+\section{Test Strategy (v0.1)}
+\subsection*{Validation Targets}
+\begin{tabular}{@{}p{0.18\linewidth}p{0.24\linewidth}p{0.50\linewidth}@{}}
+\toprule
+Target & Required Tests & Pass Condition \\
+\midrule
+VT1 & IT-01, ST-01 & Stable 3--4 DoF closed-loop baseline control without unstable oscillation. \\
+VT2 & IT-02, ST-02 & Consistent orient-to-sound response from directional cues. \\
+VT3 & IT-03, ST-03 & Consistent fixation/tracking behavior using reduced vision path. \\
+VT4 & IT-04, ST-04 & Repeatable startup calibration with comparable calibration metrics. \\
+\bottomrule
+\end{tabular}
+
+\subsection*{Exit Criteria}
+\begin{itemize}
+  \item VT1--VT4 pass with reproducible evidence.
+  \item No unresolved critical safety defects.
+  \item Requirement traceability matrix complete and current.
+\end{itemize}
+
+\section{Gate Artifacts}
+\begin{itemize}
+  \item \texttt{docs/manifesto-v0.1.md}
+  \item \texttt{docs/requirements.md}
+  \item \texttt{docs/architecture-ga144.md}
+  \item \texttt{docs/test-strategy.md}
+\end{itemize}
+
+\end{document}

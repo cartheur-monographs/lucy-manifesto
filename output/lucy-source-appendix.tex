@@ -1,0 +1,30 @@
+\documentclass[11pt]{article}
+\usepackage[margin=1in]{geometry}
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage{lmodern}
+\usepackage{hyperref}
+
+\title{Lucy Manifesto Source Appendix}
+\author{The Lucy Manifesto Project}
+\date{\today}
+
+\begin{document}
+\maketitle
+
+\section{Purpose}
+This document provides a direct appendix-style inclusion of the cleaned source text used for manifesto development.
+
+\section{Source}
+\begin{itemize}
+  \item Input file: \texttt{source/source.txt}
+  \item Render file: \texttt{output/source-for-tex.tex}
+\end{itemize}
+
+\appendix
+\section{Full Source Text}
+\small
+\sloppy
+\input{output/source-for-tex.tex}
+
+\end{document}
