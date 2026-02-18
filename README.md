@@ -17,6 +17,7 @@ This is the initial project setup (`v0` scaffold).
 - `source.pdf`: canonical source material
 - `docs/ROADMAP.md`: phased implementation plan
 - `docs/CONTRIBUTING.md`: writing and review standards
+- `docs/PROJECT_OUTLINE.md`: GA144-based Lucy revitalization outline
 
 ## Workflow
 
