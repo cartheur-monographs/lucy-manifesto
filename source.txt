@@ -1,12 +1,7 @@
 PART ONE
 
-Loncep tion
+Conception (and some misconceptions)
 
-Cand
-
-some
-
-MlSsconcentiorrss
 Do you suffer from preconceptions? Of course you do. We all
 do. There’s no shame in it. But questioning the unquestioned
 is a crucial part of the struggle for understanding, and we need
@@ -34,9 +29,7 @@ and polarisations abound amongst experts and laymen alike.
 Before we can make much progress, we need to examine some
 of these assumptions.
 
-CHAPTER
-
-OME
+CHAPTER ONE
 
 Welcome to my mid-life crisis
 
@@ -69,7 +62,6 @@ shards. But it was enough. Only an alien being could possibly own
 something so magical. Given evidence this conclusive, I almost started
 to believe the story myself.
 
-Steve Grand
 
 One year later, much to my dismay, Armstrong and Aldrin would
 step out on the lunar surface to be greeted by nothing but a barren,
@@ -111,9 +103,7 @@ it dawned on me that these events were set in another time, known as
 
 The Future, which apparently was not due to start for a considerable
 while yet. Not until the year 2000, according to most pundits. This
-10
 
-Growing Up with Lucy
 
 date was so unimaginably and depressingly distant that I calculated I
 would be forty-two years old and therefore well into my dotage by the
@@ -161,9 +151,6 @@ environment that I was able to re-embark on my quest for the ultimate
 1LEGO® is a registered trademark of the LEGO group
 Meccano® is a registered trademark of Meccano SA
 
-11
-
-Steve Grand
 
 building block, beginning at once with the physics lab’s radioactive
 materials store.
@@ -204,9 +191,7 @@ it turned out that I was pretty good at teaching computers. I even
 found that I could teach computers how to learn things for themselves.
 And so one thing led inexorably to another over the course of the next
 decade until, to cut a very long story short, I woke up one day in the
-12
 
-Growing Up with Lucy
 
 late nineteen-eighties to discover that I had become a computer games
 programmer.
@@ -244,9 +229,7 @@ great surprise, but nevertheless this sort of thing is not good for one’s
 self-esteem, never mind one’s bank balance. The dream had suddenly
 turned sour and my soul was all but destroyed (again). I thought I was
 going to have to abandon my passion for artificial life completely, and
-13
 
-Steve Grand
 
 I would have done so there and then, quite frankly, if it hadn’t been
 for the OBE.
@@ -290,9 +273,7 @@ So what choice did I have? We have reached the future already and
 the robots and Martians have flatly refused to come to Muhammad,
 so Muhammad will simply have to go to them. I can’t let all of those
 childhood questions remain unanswered. My impetus has always been
-14
 
-Growing Up with Lucy
 
 two-fold, and combines a love of analysis with a respect for synthesis.
 I]want to understand the extremely simple and elegant building blocks
@@ -309,9 +290,7 @@ doing something radical, marvellous and, almost without question,
 utterly futile.
 I began to build myself a daughter. Her name is Lucy.
 
-15
-
-CHAPTER
+CHAPTER
 
 Tul
 
@@ -345,9 +324,7 @@ software is of course just plain nonsense. If I gave these doomsayers a
 computer that was a billion times faster than those cf today, and had
 a billion times more memory, would it spontaneously begin thinking
 up plans for world domination the second they switched it on? No, of
-16
 
-Growing Up with Lucy
 
 course not. It would just sit there until it was programmed in the right
 way. And how are they planning to do that, exactly?
@@ -389,7 +366,6 @@ This is certainly close to the way of thinking about the problem that
 workers in artificial intelligence have used most often. It relies on an
 W
 
-Steve Grand
 
 idea called computational functionalism, which asserts that if two
 systems with different structures behave in the same way, then they
@@ -432,15 +408,12 @@ In practice the snag is that nobody has yet managed to formulate a
 description of the rules for thought that is complete and generally
 applicable. So far the various approaches have worked in one very
 narrow domain, but then failed miserably in all the others. This is
-18
 
-Growing Up with Lucy
 
 because, although there is nothing intrinsically wrong with the
 functionalist principle of equivalence, there may be something
 wrong with the assumption that there are many ways of making a
 mind.
-.
 The difficulty with relying upon functionalism in AI is that abandoning the brain leaves us nothing to draw our inspiration from. Given
 all the different kinds of program we could possibly write, how do we
 know which of them will be intelligent? We might assume, for
@@ -476,9 +449,7 @@ Which is a bit unfortunate, really, since the digital computer was
 largely intended to be an analogue of the mind. We don’t talk about
 computer ‘memory’ and ‘instructions’ and ‘logic’ for nothing: these
 metaphors are drawn from the way that psychologists had already
-19
 
-Steve Grand
 
 chosen to divide up the structure of the human mind. We appear to
 memorise and recall things, and so it was assumed that there is a place
@@ -528,7 +499,6 @@ to remain separate, with the explanation that each one constitutes an
 intelligent system in its own right. This is partly how the marketing
 guys manage to get away with claiming that microwave ovens, speech20
 
-Growing Up with Lucy
 
 dial mobile phones and optical character readers contain ‘artificial
 intelligence’.
@@ -564,9 +534,7 @@ and the elephant. One man feels the elephant’s trunk and declares the
 animal to be like a snake, another feels its leg and claims it to be like
 a tree, a third feels its ears and concludes that elephants are like fans.
 Never mind the original point of the story — if the blind men get
-21
 
-Steve Grand
 
 together and share notes, they will come up with a fairly complete and
 possibly useful description of the beast. But suppose they now decide
@@ -574,7 +542,6 @@ to build an elephant for themselves. Taking a python and a pair of
 large fans and strapping them on to four vertical tree trunks might
 end up looking abit like an elephant, but not in any way that another
 elephant would appreciate!
-—
 This is not as flippant as it might seem. A functional analysis of the
 mind is an abstraction, and abstractions are useful, if not essential,
 
@@ -609,9 +576,7 @@ The first computer program I ever wrote was to compose poetry.
 Heaven knows why - I write awful poetry and the program was much,
 much worse than me. It just seemed like a nice easy exercise to
 help me learn my first programming language and was rather more
-22
 
-Growing Up with Lucy
 
 interesting than writing a payroll program, which was the usual way
 that educators tried to put people off computing. When it came to
@@ -650,9 +615,7 @@ but also represent a place, containing objects. Computers could not
 only do things, they could be things.
 I started to wonder whether the objects in an adventure game could
 be given arbitrary properties, besides a name anda location, in such a
-23
 
-Steve Grand
 
 way that the objects could sensibly interact with each other without
 the programmer having to consider every possible combination and
@@ -662,7 +625,6 @@ it, and yet nowhere in the program would you be able to find an
 explicit description of that behaviour. It would have emergent properties
 that the programmer neither deliberately specified, nor necessarily
 expected.
-|
 This rather appealed to the anarchist in me, and it was such an
 enticing idea that I sat down and wrote my own adventure engine,
 called Microcosm. Over the next few years I used this to create a series
@@ -692,9 +654,7 @@ structures, whose behaviour would be greater than the sum of their
 parts.
 This is an idea that underpins the alternative way of looking at
 artificial intelligence that I mentioned at the start of this chapter.
-24
 
-Growing Up with Lucy
 
 Instead of trying to emulate the mind directly with a computer
 program, perhaps we can emulate the structure of the brain instead,
@@ -719,9 +679,7 @@ if most of today’s neural networks are inspired by anything at all (and
 sometimes it’s hard to tell) then it certainly isn’t the structure of the
 human brain.
 
-25
-
-CHAPTER
+CHAPTER
 
 THREE
 
@@ -758,9 +716,7 @@ such as the calculation of differences in a differential gearbox. Adding
 special non-linear elements to the toolkit, such as the ratchet and the
 
 escapement, makes far more complex processes possible, for example
-26
 
-Growing Up with Lucy
 
 the self-regulating pendulum clock or the complex calculations
 (almost) made possible by Charles Babbage’s revolutionary analytical
@@ -799,9 +755,6 @@ mechanical vibration, it would be possible in principle to build a complete radi
 receiver out of cogs and ratchets! Tuned amplification, rectification and demodulation are all feasible. The end product of a radio is already a mechanical vibration
 anyway — the movement of a loudspeaker cone.
 
-27
-
-Steve Grand
 There is something worth watching
 | have enough money
 Dae
@@ -812,8 +765,6 @@ y
 
 | should go to
 the cinema
-
-Figure 1 Deciding whether to go to the cinema, using logic circuits
 
 as it went, the digital revolution might not have amounted to anything
 at all. But it turns out that by treating the ones and zeroes of a binary
@@ -834,9 +785,7 @@ previous sum was. On the other hand sequential logic contains what
 amounts to a memory of the past. Now the output depends not only
 on the present state of the inputs but also on a memorised internal
 state, which itself is a product of previous inputs.
-28
 
-Growing Up with Lucy
 
 Perhaps the most obvious example of sequential logic is the binary
 counter that lies at the heart of a stopwatch. It remembers its previous
@@ -879,9 +828,7 @@ to think about. Digital logic circuits go to great lengths to make the
 messy realities of electronics irrelevant to their operation, and it is in
 the nature of digital systems that they behave (most of the time)
 precisely as their idealised abstractions would predict. But this is not
-29
 
-Steve Grand
 
 so for neurons. They are far more complex and intricate than a cog.
 So which particular aspects of a neuron’s behaviour are important for
@@ -918,9 +865,7 @@ connections in such a network increases exponentially as more
 neurons are added. Practical networks of this type often have no more
 than a few dozen neurons, and scaling this up to the billions of neurons
 in the human brain is clearly both abit of a faint hope and biologically
-30
 
-Growing Up with Lucy
 
 a
 
@@ -935,7 +880,6 @@ Realistic neuron
 
 Stylised neurons
 
-Figure 2 A pair of stylised ‘connectionist’ neurons, compared with a (simplified) real
 neuron from the cerebral cortex
 
 completely unrealistic. Nevertheless, three-layer networks like this can
@@ -958,9 +902,7 @@ known as a digital signal processor (see chapter 6), goes to the trouble
 of implementing the operation asa single, highly efficient instruction
 known as MAC (for Multiply and ACcumulate).
 If you want to know more about how traditional neural networks
-31
 
-Steve Grand
 
 work, then you'll have to read a specialised book on the topic. And
 good luck to you too, since the subject can get pretty rarefied and
@@ -1004,9 +946,7 @@ more interesting than combinational logic, if distressingly difficult to
 analyse. By contrast, the traditional style of neural network has no
 internal state, and always produces the same answer, given the same
 inputs.
-32
 
-Growing Up with Lucy
 
 ‘Hang on,’ you might say, ‘what about the way that synaptic weights
 are adjusted as the network learns? Isn’t this an example of a stored
@@ -1036,8 +976,6 @@ network
 One kind of organised
 recurrrent network
 
-Figure 3 Some network topologies
-
 In truth, the universe is stuffed full of highly dynamic systems
 involving feedback like this. Think of a simple conversation between
 two people, for example, or the stock market, or a thunderstorm.
@@ -1045,9 +983,7 @@ Because we have no effective mathematics for dealing with such monsters, more of
 theory is a modern method for trying to tame the beast, but although
 this can tell us the kind of thing that any given network of interactions
 might get up to, it tells us nothing about what it will actually do, and
-33
 
-Steve Grand
 
 precious little that will help us design a system to do what we want it
 to do. We know that the brain is an incredibly recurrent structure at
@@ -1088,9 +1024,7 @@ propagate their genes, the neural networks will gradually evolve the
 ability to tackle the task better and better. And nobody ever needs to
 know how it works.
 Hey presto! It’s like having a letter from your mum, excusing you
-34
 
-Growing Up with Lucy
 
 from lessons. Suddenly you don’t have to sit there in front of a
 blank sheet of paper, desperately trying to think up a recurrent neural
@@ -1126,9 +1060,7 @@ from rats, but from invertebrates, particularly insects. Unfortunately,
 the lessons one draws from a cockroach do not necessarily apply to a
 human being.
 
-35
-
-CHAPTER
+CHAPTER
 
 -OUR
 
@@ -1164,9 +1096,7 @@ and I know I promised you robots and other glamorous and exciting
 things, but the homework is nearly over. Before I heat up the soldering
 iron, I just want to tackle one more misconception that will help to
 explain exactly what I’m looking for.
-36
 
-Growing Up with Lucy
 
 Most academics of my acquaintance are encouraging, helpful and
 positive about what I am doing, even if they secretly think that I’m
@@ -1207,9 +1137,7 @@ For that matter, I think the claim that human brains are vastly more
 complex than roundworm brains is nowhere near as defensible as it
 sounds. Measured gram for gram I think it’s actually possible that our
 brains are simpler than those of some invertebrates. Before you take
-37
 
-Steve Grand
 
 affront at this insult to your humanity and throwthis, book across the
 room, let me try to explain.
@@ -1250,9 +1178,7 @@ brains, this is not because I think that love and hate are much less
 
 sophisticated than we thought, but because I believe that human brains
 contain an important simplifying factor that the simplest creatures do
-38
 
-Growing Up with Lucy
 
 not. Braitenberg’s observations do not predict or acknowledge this
 important fact and so should not be taken too far.
@@ -1294,16 +1220,12 @@ refugee camp. In a simple circuit like a radio set, or a very primitive
 creature, this is the logical thing to do. Each component, each neuron,
 has its own specific function, and there is very little repetition, so no
 organised structure is needed. I call such networks ‘ad hoc’, since they
-39
 
-Steve Grand
 
 seem to have been thrown together at the last moment. If you want
 to add new facilities to such a system, you can bolt on a few more
 components and maybe replace some of the existing ones, but in doing
 so the tangle gets more and. more complicated.
-
-Figure 4 Valve radiogram
 
 If you keep adding new features, sooner or later you'll find that
 things get into a serious mess. Every time you add something new, you
@@ -1318,9 +1240,7 @@ the rate at which it discovers improvements that don’t damage the
 existing system falls steadily towards zero. But if you’re a sensitive
 designer you'll probably soon make a discovery. You'll realise that a
 lot of the things you add to the system are actually quite similar to
-40
 
-Growing Up with Lucy
 
 each other, and a single, more generalised module can be designed,
 which can be adapted to many tasks.
@@ -1360,9 +1280,7 @@ different but fundamentally similar tasks? Does the task of processing
 and integrating signals from a compound eye bear a sufficiently strong
 similarity to the task of processing and integrating smell signals from
 an antenna, for example? I don’t know the answer to this in the case
-41
 
-Steve Grand
 
 of insects, but it seems quite possible. If nature managed to discover a
 small neural circuit with the versatility of an op-amp, she would be
@@ -1403,14 +1321,12 @@ animal on the planet, but they are an example of the intelligence of
 evolution, and evolution is not what I’m studying. Individually, they
 aren’t the most sparkling wits in existence, yet over quite short evolutionary time-spans insects have managed to invade almost every eco42
 
-Growing Up with Lucy
 
 logical niche. Taken as a whole class, insects can perform hard-wired and
 species-specific but still rather impressive feats, such as landing on a
 petal, navigating back to their burrow or giving comprehensive restaurant reviews via the medium of dance (in the case of honey-bees). It
 seems to me quite possible that they achieve such evolutionary flexibility by having access to a highly generalised, repetitive and easily
 modified building block structure in their nervous systems.
-_
 Whereas insects have responded to ecological challenge by rapidly
 evolving into new niches, mammals, and especially scavenging omnivores like us, have dealt with it very differently. When our environment
 changes (perhaps through a change in climate or the drying up of a
@@ -1444,9 +1360,7 @@ adapt for new tasks, unlike the fixed functions of AND, OR and NOT
 
 gates, and these elements are present in huge arrays. In practice, each
 element is too primitive to do very much by itself, and PLAs are used
-43
 
-Steve Grand
 
 in place of discrete logic gates to produce relatively small numbers of
 complex circuits, rather than the very large numbers of moderately
@@ -1488,9 +1402,7 @@ evolution (perhaps indirectly, see chapter 15), but some, most notably
 the cerebral cortex, which is responsible for our most sophisticated
 conscious and unconscious learned behaviour, are capable of wiring
 themselves up to perform a range of specialised tasks.
-44
 
-Growing Up with Lucy
 
 The cortex is the thin, pinkish-grey ‘rind’ that lies on the surface of
 our pair of cerebral hemispheres, the largest and most obvious part of
@@ -1533,9 +1445,7 @@ muscles, this is driven by a pattern of nerve activity in a different map,
 called primary motor cortex, or M1. And so on. This arrangement of
 specialised (but largely self-organised) maps carries out much of our
 learned but unconscious activity. Yet we can also make voluntary
-45
 
-Steve Grand
 
 decisions; we can initiate, alter or suppress our behaviour at will. We
 can even perform mental tasks for which no specialised and rigidly
@@ -1574,9 +1484,7 @@ of the cerebral cortex — a circuit made from a few thousand neurons
 of several different types, wired up in a consistent and characteristic
 way. Individually these building blocks do something pretty simple
 and far from obviously related to the outward behaviour of an animal,
-46
 
-Growing Up with Lucy
 
 but taken en masse they generate intelligence. Understand the structure
 of these circuits, what they do to the signals that enter them (from all
@@ -1620,9 +1528,7 @@ All is not lost, however. As Braitenberg pointed out, it’s often easier
 to use synthesis —- to understand something by trying to build it - than
 to understand it by taking it apart. Nowhere is this more true than in
 a system whose important properties are emergent. If brains embody
-47
 
-Steve Grand
 
 general principles in their structure, rather than masses of ad hoc,
 specialised solutions, then it is probably very much easier to work out
@@ -1663,9 +1569,8 @@ then I am right; if it doesn’t, then either Iam wrong or I have missed
 something out (or my computer is broken, which is sometimes the
 easier option to accept).
 It’s time to meet Lucy.
-48
 
-PART TWO
+PART TWO
 
 Sod
 
@@ -1682,7 +1587,7 @@ world of biology. Every android needs a body, but the kind of
 body they are given has a very strong impact on their potential
 for developing true intelligence.
 
-CHAPTER
+CHAPTER
 
 FIWE
 
@@ -1714,9 +1619,7 @@ level of agility is the mechanical digger. If you aren’t too bothered by
 size and weight constraints, then I suppose you could use a diesel
 engine to run a compressor and drive hydraulic rams to control the
 moving parts of a robot, but I suspect there may be a little consumer
-51
 
-Steve Grand
 
 resistance to the idea of robotic housemaids that weigh four tons and
 blunder around the house like a demented mammoth, spewing out
@@ -1758,9 +1661,7 @@ it was cooked, use its molecular motors to enable it contract a little
 bit, exerting a minuscule force on the tissues around it. Yet multiply
 that tiny force by a billion and it becomes huge. Not only that, but
 there is a vast network of tiny blood vessels and nerve endings, bringing
-52
 
-Growing Up with Lucy
 
 energy and control signals into intimate contact with the muscle fibres
 to give them a very rapid and finely honed response.
@@ -1805,9 +1706,6 @@ in robotic applications of the future.
 Nanotechnology is another great white hope for producing artificial
 "Velcro® is a registered trademark of Velcro Industries BV
 
-53
-
-Steve Grand
 
 motive devices. It is possible to imagine ratchet-like structures made
 from millions of microscopic silicon ‘prongs’ that can contract and
@@ -1849,9 +1747,7 @@ The motors I eventually settled on are the sort used in model aircraft
 to move the control surfaces. They are relatively cheap, they come
 with a built-in gearbox, they don’t draw too much current and they
 are just about strong enough to lift the weight of Lucy’s arms and
-54
 
-Growing Up with Lucy
 
 head. Sadly, Lucy has no legs at the moment. Lifting her entire body
 weight is far beyond the capacity of little motors like these, and larger
@@ -1892,9 +1788,7 @@ robot armed with nothing more than a couple of bump sensors and
 maybe a rudimentary form of sonar. You have no other sense; not
 touch, sight, smell, proprioception (the sense of joint and muscle
 position) or hearing, and the only actions available to you are to go
-55
 
-Steve Grand
 
 left or right, forwards or backwards. How smart would you be after
 living this way for a while? How smart could you have become in the
@@ -1936,9 +1830,7 @@ attempts to simplify the problem they are studying, by choosing
 sensors that seem to them more straightforward, structured and manageable, actually make things worse, since what seems simple to our
 minds is not necessarily simple to our brains.
 This argument applies to motor systems just as much as it does to
-56
 
-Growing Up with Lucy
 
 sensors. For all I know, the way the brain handles its motor output
 
@@ -1982,11 +1874,7 @@ the servo where you want its shaft to point by sending it some pulses,
 and it will put it there. If there is an external force resisting its motion,
 or something is trying to move it away from its target, the servo will
 respond automatically with an appropriate force to correct the error.
-57
 
-Steve Grand
-
-Figure 5 A radio-control servomotor
 
 This is a quite neat mechanism with strong biological parallels, and
 the obvious thing for me to do would have been to attach a servo
@@ -2006,9 +1894,7 @@ by monitoring the stretch receptors in our muscles and joints (imagine
 weighing up a stone in your hand to see how heavy it is) and we can
 choose whether and how much to fight any resistance we encounter.
 Tapping into the sensors inside the servos, so that Lucy’s brain can
-58
 
-Growing Up with Lucy
 
 detect the arm’s actual position, seems like a plausible solution, but it
 doesn’t help with another problem, which is that our limbs aren’t
@@ -2050,11 +1936,7 @@ deliberately push on Lucy’s arm the computer will detect the fact that
 the joint and the servo no longer face in the same direction, and
 command the servo to follow the motion. Lucy’s brain will ‘feel’ her
 arm being moved (because the joint angle is changing in a way that
-59
 
-Steve Grand
-
-Figure 6 Lucy’s arm ‘muscles’
 
 she didn’t specify herself) and the arm itself will appear to move
 relatively freely because the servo automatically moves to prevent
@@ -2067,9 +1949,7 @@ This is not ideal, but it will have to do for now. One irritation is
 
 that, since the sensors in her joints aren’t very stable under changing
 temperatures, and because my engineering is (to say the least) a bit
-60
 
-Growing Up with Lucy
 
 sloppy, Lucy needs to recalibrate her limbs every time I switch her on.
 She does this by moving all her limbs to each end-stop in turn, and
@@ -2105,9 +1985,7 @@ the self-contained, agile, high-endurance bodies that my childhood
 comics promised. On the other hand, at least it makes me feel less
 inadequate about my own much-abused carcass.
 
-61
-
-CHAPTERS
+CHAPTERS
 
 SI“
 
@@ -2141,9 +2019,7 @@ time, but for many of us I expect the details are a little hazy, if
 not pathologically suppressed. In my case I have only the faintest
 recollection of events. It started with a diagram in a magazine (as it so
 often does), and I remember that her name was Scamp. I was alittle
-62
 
-Growing Up with Lucy
 
 shocked - I had never seen anything quite like this before and it left
 me rather disoriented. Nevertheless, in these more enlightened times
@@ -2152,10 +2028,7 @@ pages of Practical Electronics, some time in the summer of ’74. It looked
 
 something like this:
 00S
-007
 OOA
-
-;
 
 LDA #017
 STA!110
@@ -2188,9 +2061,7 @@ exhibiting a slight rolling of the eyeballs. It turned out that pressing
 Escape had stopped the program from running, and returned control
 to the command interpreter. From this point on, the computer interpreted every number we typed to be the line number of a program
 command, and a number followed by Enter meant that any existing
-63
 
-Steve Grand
 
 command with that number should be deleted. How were we supposed
 to know that? Given that the computer had no disc drive, the lecturer
@@ -2229,9 +2100,7 @@ This reduction in size and cost is not just a convenience, either.
 Sometimes quantitative changes can also lead to qualitative ones. After
 all, the only significant difference between a slide show and a movie
 is the speed at which the pictures are displayed, and yet movies have
-64
 
-Growing Up with Lucy
 
 qualities that no slide show could ever approach, because they pass a
 crucial speed threshold, beyond which our brains interpret sequences
@@ -2272,9 +2141,7 @@ interact with an essentially analogue world. An ADC can be used to
 monitor the position of a joystick, the temperature of a room or the
 rapid changes in signal strength produced by a sound, for example.
 The converse of an ADC is a DAC — a digital-to-analogue converter,
-65
 
-Steve Grand
 
 which, as its name suggests, allows the computer to convert a series of
 binary numbers into a more-or-less continuously variable voltage, with
@@ -2316,9 +2183,7 @@ of signal wires, but interestingly it can also be used to allow MCUs to
 talk to each other, opening up possibilities for developing multiprocessor systems.
 
 One particularly nice feature of this range of PICs is that they are
-66
 
-Growing Up with Lucy
 
 in-circuit programmable, which means that you can program and
 reprogram them while they are soldered into the application circuit.
@@ -2356,9 +2221,7 @@ bank balance (and Lucy’s batteries) could stand. But it illustrates how
 microcontrollers are qualitatively different from larger computers:
 instead of thinking of them as centralised master controllers, they can
 be used as highly flexible configurable building blocks. This is a bottomup viewpoint instead of the more traditional top-down one.
-67
 
-Steve Grand
 
 More to the point, I can use microcontrollers as a means of turning
 hard-edged electronic sensors and motors into devices with a much
@@ -2402,9 +2265,7 @@ proved too much for such a simple, slow, processor, and no matter what
 clever tricks I thought up to make it faster, it quickly became obvious
 that the PIC couldn’t deliver. This meant changing toa new kind of chip,
 and that turned out to trigger a whole cascade of problems.
-68
 
-Growing Up with Lucy
 
 Electronics is going through rapid change at the moment. Chips
 used to be relatively simple, bulky devices, with big metal legs that
@@ -2452,9 +2313,7 @@ by real people; that you don’t necessarily need fancy laboratories and
 a PhD, just enthusiasm and an enquiring mind. Istill think that’s true,
 and I hope you'll agree with me as you read on, but I guess this stands
 as a warning that things can sometimes get a bit close to the edge.
-69
 
-Steve Grand
 
 di
 
@@ -2464,7 +2323,6 @@ me
 
 | NEN
 
-Figure 7 Surface-mount chip, less suitable for clumsy fingers than the old-fashioned
 sort next to it
 
 Being an independent scientist has its advantages over the academic
@@ -2486,9 +2344,7 @@ make some awkward compromises, but Lucy and J are at least back on
 track. And despite these inevitable relationship problems, my love
 affair with computers is still far from over.
 
-70
-
-oJ
+oJ
 
 iene R= soUeN
 
@@ -2524,11 +2380,9 @@ Unfortunately, thanks to Farnsworth, the video camera that Lucy
 sees with produces a standard television signal, which I have to turn
 
 back into a square array of binary numbers using one of her microcontroller chips before I can do anything useful with it. Once it is in
-71
 
-a
+a
 
-Steve Grand
 
 this format, I can modify the data in such a way as to emulate the
 signal processing that occurs in the retina.
@@ -2572,48 +2426,14 @@ but these are delivered in two interleaved images of about 312 lines
 each, to reduce flicker). Therefore each line of the picture lasts about
 
 sixty-four millionths of a second. Since Lucy’s initial (unprocessed)
-72
 
-Growing Up with Lucy
-
-One scan line
 
 eee
 ae
 oadn
-,
 
-Fee
 
-Sync pulse is
-(start of line)
 
-ee
-
-Video data
-(brightness levels)
-ps
-
-20
-
-40
-
-60
-
-80
-
-100
-14Nov2002 16:53
-
-120
-
-140
-
-160
-
-180
-
-Figure 8 Oscilloscope trace of the video signal emanating from Lucy’s eye
 
 image resolution is 64 x 64 pixels, I need to be able to read the voltage
 on the video signal and convert it into a binary number about a million
@@ -2635,11 +2455,7 @@ are likely to be no accident, so for Lucy I need to take account of them.
 One of these changes involves emulating the decidedly uneven
 distribution of light-sensitive cells in our own eyes. As you probably
 know, our visual acuity is extremely high in the central degree or so of
-73
 
-200
-
-Steve Grand
 
 our visual field (the portion of the image falling on a part of the retina
 called the fovea), and then drops off dramatically towards the edges.
@@ -2686,9 +2502,7 @@ turn static edges into moving features that are easier to pick out, but
 it is also possible that our brains keep track of the eye movements and
 use this information in addition to the image itself.
 In a sense the visual world also acts as a kind of external memory.
-74
 
-Growing Up with Lucy
 
 We don’t need to record the colour and brightness and shape of the
 entire scene in our brains, because to find these things out when we
@@ -2730,11 +2544,7 @@ are heavily magnified on the surface of the brain if they lie in the
 middle of our vision, compared to how they look when they are off to
 one side? Are the pattern detectors larger in the middle of the cortical
 map, in order to compensate for this distortion? I can find no evidence
-75
 
-Steve Grand
-
-Figure 9 Image analysed by spatial orientation and frequency
 
 to suggest that this is the case. If the range of spatial frequencies to
 which cells are tuned remains the same right across the visual cortex,
@@ -2748,9 +2558,7 @@ Alternatively, is it plausible that we make use of this shift in spatial
 frequency range to help us recognise objects regardless of distance? As
 a textured object gets closer, its texture gets coarser, but the object also
 covers more of our visual field and hence the larger texture falls on
-76
 
-Growing Up with Lucy
 
 less ‘magnified’ portions of the brain and may trigger texture detectors
 with exactly the same physical spacing, allowing us to recognise the
@@ -2793,7 +2601,6 @@ at a continuous surface; if there is a big difference between centre and
 surround, it must be looking at an edge.
 a
 
-Steve Grand
 
 What you think the scene looks like
 
@@ -2805,8 +2612,6 @@ on the cortical surface
 The cortex ‘sees’ contrast, rather than
 brightness levels
 
-Figure 10 Impression of the ‘distortions’ caused by our visual system
-
 If the centre is brightly lit, and the surround is dim, then subtracting
 the centre signal from the surround gives us a strong signal that tells
 us we are looking at a white line on a black background. Unfortunately,
@@ -2816,9 +2621,7 @@ level from the surround would now give us a negative number, and
 since neurons can’t represent signed numbers, the output from the
 cell would be zero - exactly the same as an evenly lit surface. So in real
 retinas there are two distinct populations of cells, one called on-centre/
-78
 
-Growing Up with Lucy
 
 off-surround and the other called off-centre/on-surround. One subtracts
 the centre value from the surround and the other does it the other way,
@@ -2860,9 +2663,6 @@ how is it that we can tell how bright something is?’ More to the point,
 1 To some extent we can’t, and there are various optical illusions that demonstrate
 our inability to make accurate judgements of brightness, but we can still do better
 
-79
-
-Steve Grand
 
 how can we see any fine detail at all, if the image is so blurred? In fact
 we are able to see details that are even finer than the theoretical
@@ -2895,9 +2695,7 @@ counter-intuitive.
 than one might imagine, given that the nerve signals are not measures of brightness
 but measures of spatial changes in brightness.
 
-80
-
-EMP TER SE] GH.
+EMP TER SE] GH.
 
 Why the best cocktail parties
 need superior olives
@@ -2935,9 +2733,7 @@ of structure that communicate with the cerebral cortex. Nerve impulses
 from the two ears arrive at the superior olive and are combined with
 each other before passing on to the cortex and to a part of the brain
 called the inferior colliculus. The olivary complex is known to be
-81
 
-Steve Grand
 
 associated with our ability to work out which
 
@@ -2984,9 +2780,6 @@ because as we move our head to the left, a sound from in front of us will appear
 move to the right, while a sound from behind will appear to move towards our left
 ear.
 
-82
-
-Growing Up with Lucy
 
 a
 
@@ -2997,8 +2790,6 @@ Sound hits right ear
 
 —— _ first, so blips coincide
 nearer to left ear
-
-Figure 11 How the superior olive may detect the direction of a sound
 
 fit will produce the largest signal on average, and if there are two
 simultaneous sources of sound you will get two peaks. By listening to
@@ -3018,9 +2809,7 @@ one region of the map. If it enhances them alittle, we will be able to
 pick out one particular sound more clearly from its background; if it
 enhances them alot, it will trigger a reflex head and eye movement
 that causes us to turn towards the source of sound (and feels to us like
-83
 
-Steve Grand
 
 a conscious decision to move). There are strong parallels between this
 ability to attend deliberately to a sound and our facility to attend
@@ -3059,10 +2848,8 @@ with sound. This corresponds closely with the literal picture presented
 to the brain from the eyes, and also to the various pictures of the body
 that are painted on the somatosensory (touch and joint position) and
 motor (muscle tension) maps of the cortex. Most or all of the primary
-84
 
-i,
-Growing Up with Lucy
+i,
 
 cortical maps therefore work with pictures and I think we can presume
 that even the higher cortical functions such as plans and words and
@@ -3104,9 +2891,7 @@ actually know what you are going to say before you hear yourself
 say it? Do your utterances really start out as complete grammatical
 
 sentences made from words, which are in turn constructed from letters
-85
 
-Steve Grand
 
 or phonemes? Maybe they do, or maybe they remain stored in the
 form of a hierarchical dance of muscles and never become sequences
@@ -3147,9 +2932,7 @@ loudspeaker will produce a sound at a pitch determined by how quickly
 the sequence repeats and at a timbre dictated by the shape of the
 wave.
 The hard part is simulating the way the mouth and other cavities
-86
 
-Growing Up with Lucy
 
 behave as resonant structures. When we say ‘ay, ee, eye, oh, you’ we
 achieve the different vowel sounds by changing the shape of our
@@ -3188,9 +2971,7 @@ echoes from the tunnel walls. These echoes are produced by the walls
 of the tunnel through precisely the same process that causes them to
 resonate when the sound is continuous. What is more, a continuously
 varying sound wave is essentially a long sequence of clicks, following
-87
 
-Steve Grand
 
 one immediately after the other at different loudness levels. If one
 click produces a characteristic, decaying echo, then it follows that a
@@ -3232,7 +3013,6 @@ to get bogged down with mathematics in this book (or ever, for that
 matter). So just bear convolution in mind as you read the next section,
 and keep an eye out for examples of this kind of blurring, spreading88
 
-Growing Up with Lucy
 
 The original sound wave
 entering the ‘tunnel’ (filter)
@@ -3249,8 +3029,6 @@ When the echoes are added
 together, this is the sound
 that leaves the filter
 
-Figure 12 How afinite impulse response filter works
-
 out process in action. It turns up in many different guises and plays
 many important roles.
 I knew some of these computational ideas before I started work on
@@ -3261,9 +3039,7 @@ realise quite how universal these concepts are, and how much they
 help me to think about the brain in general. If I hadn’t built Lucy’s
 body myself; if I had farmed the problem out to a team of people, as
 is standard practice in academic circles, | would have missed out on
-89
 
-Steve Grand
 
 an awful lot of insights. Aside from being a control freak, this is one
 
@@ -3274,11 +3050,7 @@ not being part of a huge team is that I don’t get invited to so many
 
 cocktail parties.
 
-:
-
-90
-
-PART. THREE
+PART. THREE
 Mind
 
 Now comes the tricky bit.
@@ -3311,16 +3083,13 @@ approaches is going in the right direction. Nor is my aim to
 assemble a pot-pourri of conceptually unrelated mechanisms
 in the hope that the result will be intelligent. Seeing, hearing,
 
-Steve Grand
 
 speaking and moving are not different problems, in my mind,
 they are different viewpoints on to the same problem, namely:
 how does nature create general intelligence?
 And this is the bridge | now have to cross.
 
-92
-
-“CHAFTER
+“CHAFTER
 
 MIKE
 
@@ -3354,9 +3123,7 @@ inside your head but it came without a user guide. This is not a book
 about the brain per se; there are plenty of those around already. My
 aim is to document the first steps in my attempt to make an artificial
 being, but since I’m using natural living things to provide most of my
-93
 
-Steve Grand
 
 clues about how to do it, and the brain is such a puzzling object at
 almost every level, I guess I’d better lay out a broad map of the terrain
@@ -3401,9 +3168,7 @@ midline and enter the opposite hemisphere of your brain. Vast tracts
 of nerve fibres, the largest of which is the corpus callosum, join the
 two hemispheres together and make these unilateral signals available
 to both sides. In certain cases of severe epilepsy, the corpus callosum
-94
 
-Growing Up with Lucy
 
 is surgically severed, to reduce the spread of the epileptic seizure and
 make life more tolerable for the patient. This shows that the two halves
@@ -3443,9 +3208,7 @@ prefrontal lobotomy was performed on his temporal lobes, with the
 effect that he was henceforth completely unable to lay down new
 memories. This leads us to another observation about the brain: different bits of it do different things. The part that was severed in HM is
 called the hippocampus, and this structure is therefore implicated
-95
 
-Steve Grand
 
 in the process of memory formation. Other parts also suffer highly
 characteristic losses and syndromes when they are damaged or surgically altered, and this can often be revealing. In fact these ‘lesion
@@ -3481,9 +3244,7 @@ on? Suppose (and this is very relevant to future chapters) that we are
 really witnessing a dynamic balance between two opposing forces: one
 excitatory and one inhibitory. In this case all sorts of difficulties arise,
 because the total amount of neural activity tells us nothing at all about
-96
 
-Growing Up with Lucy
 
 the balance between excitation and inhibition. The region could swing
 from full excitation + zero inhibition, through half excitation + half
@@ -3522,9 +3283,7 @@ outermost layer. In many maps one or another layer may be almost
 non-existent, or it may be overdeveloped and subdivided. Primary
 motor cortex (M1, or Brodmann area 4) for example, is the primary
 source of outputs from the cortex to the body’s muscles, and is characterised by having only a very faint layer tv. Primary visual cortex
-97
 
-Steve Grand
 
 Layer Ill pyramidal cell
 Layer V pyramidal cell
@@ -3534,17 +3293,12 @@ Cells of Martinotti
 
 White matter
 
-—-
-
 Output
 
 Input from ‘lower’ cortex
 
-“
 Input from
 ‘higher’ cortex
-
-Figure 13 Section through the cerebral cortex, showing the major types of neuron
 
 (V1), on the other hand, has a highly developed layer tv, subdivided
 into noticeable sub-layers, with a horizontal structure that looks like a
@@ -3561,9 +3315,7 @@ and is mostly made up of horizontal axons and dendrites rising from
 the layers beneath. Layers 11 and mm contain many smallish pyramidshaped cells and the junction between the two layers is often indistinct.
 Layer tv is marked by the existence of several types of small star-shaped
 (stellate) cells and layers v and vi contain large pyramidal cells, as well
-98
 
-Growing Up with Lucy
 
 as other classes of cell. Strong bands of horizontal fibres exist in several
 of the layers, carrying signals locally within a single map.
@@ -3604,9 +3356,7 @@ much any circuitry you like. But it makes deductions and generalisations extreme
 any simplifications to be misleading. Nevertheless, if Lucy is going to
 get ahead, she has to get a brain, and to make conceptual leaps that
 might take me somewhere I had to try and form a generalised model
-99
 
-Steve Grand
 
 for how the various maps are wired together — which layer on one map
 sends signals to which layer on another. As we will see in chapter
@@ -3651,9 +3401,7 @@ passing between cortex and thalamus travel in the opposite direction
 to the sensory data —- most signals in the brain go the ‘wrong’ way,
 according to conventional wisdom. The thalamus is therefore a nexus
 for all the major feedback loops between cortical maps, and a place in
-100
 
-Growing Up with Lucy
 
 which all these feedback loops can be modulated (and can modulate
 each other).
@@ -3692,9 +3440,7 @@ divisions worth mentioning are the major lobes of the cerebrum. To
 maximise the amount of cortical surface on the two cerebral hemi-
 
 spheres, the brain has evolved a convoluted structure. The individual
-101
 
-Steve Grand
 
 convolutions are called gyri, and the gaps between them sulci (needless
 to say, every gyrus and sulcus has its own unique name), but every
@@ -3735,9 +3481,7 @@ such relative dimwits as the hedgehog. The main difference seems to
 be that primates and humans have more cortical maps than the more
 intellectually primitive mammalian species. Saying that we have bigger
 brains is also true but misleading; it seems to be the number of stages
-102
 
-Growing Up with Lucy
 
 (or perhaps types) of processing that lie between the primary sensory
 and primary motor areas, which marks us out as different, and having
@@ -3751,9 +3495,7 @@ For all I know, however, there may still be one exception to this rule,
 since, despite my best attempts to interview them on the topic, I have
 yet to discover what it is that goes on inside the brains of journalists.
 
-103
-
-GHAP DER
+GHAP DER
 
 bee
 
@@ -3787,16 +3529,13 @@ Clearly I see with my mind, not with my eyes.
 Mistaking a pink rose for porcine amusement is just an interesting
 and harmless optical illusion. I’m not as mad as I seem, or if 1am then
 it has nothing whatsoever to do with my bedroom curtains. My visual
-104
 
-Growing Up with Lucy
 
 system is simply playing tricks on me by forming false expectations.
 But the very existence of these expectations, and the way they overrule
 the evidence of my eyes runs much, much deeper than silly optical
 illusions: it is the very essence of my existence. I am the story I tell
 myself.
-;
 I hardly know where to begin with this subject, because expectations
 (false or otherwise) are so central to our being and yet masquerade
 under so many pseudonyms that the phenomenon almost gets lost in
@@ -3831,9 +3570,7 @@ so you will start to direct your eyes to where you think it is (position
 1). By the time your eyes get to position 1 the bird is now at position
 3. Meanwhile, you are receiving the image that hit your eye one tick
 ago, which started out when the bird was still at position 2. You start
-105
 
-Steve Grand
 
 to look towards position 2, and by the time you get there the bird
 appears to be at position 3 and is actually at position 4. It just doesn’t
@@ -3871,9 +3608,7 @@ concluded by many scientists that they are not proper objects for
 scientific study. As a warning to immoderate mentalists this may have
 been reasonable, but somehow caution turned rapidly into dogma,
 and even the mere mention of internal mental states became taboo.
-106
 
-Growing Up with Lucy
 
 The behaviourists became the Thought Police of the cognitive science
 world. Even today, some people get very hot under the collar about it,
@@ -3913,9 +3648,7 @@ What she will see is what she expects to see, not what her senses are
 belatedly telling her. She, like us, will live not in the real world, but in
 a virtual world in her head. She may even begin to see pigs in the
 curtains.
-107
 
-Steve Grand
 
 Let me illustrate the operation of this mental narrative with a very
 short story. When I was about thirteen, my family and I went for a
@@ -3963,9 +3696,7 @@ low-level compensations for fixed signal delays that enable us to go
 bird watching comes a whole host of other things, all of which involve
 keeping track of what is happening and using this information to
 predict the future, or sometimes to fill in for missing or ambiguous
-108
 
-Growing Up with Lucy
 
 information and thus essentially to predict the present.
 Many optical illusions illustrate how we use context to resolve
@@ -3985,18 +3716,14 @@ interpretations of the kinds of symbol that might be present, and each
 provided a different context for disambiguating the meaning of the
 (identical) horizontal lines.
 
-><
 aS
 
-4
 Xx
 ima ane
 Xx
 x
 
-><
 pie
-Figure 14 Arrows and crosses illusion
 
 Even the process of performing a physical action seems to me to be
 a part of our inner narrative, only now we are seeing the future we
@@ -4005,9 +3732,7 @@ William James called this process ‘ideomotor action’. The most compelling ex
 is flying a light aircraft. I realise this is not an analogy that will be
 familiar to everyone but, as you’ve already demonstrated, you have a
 powerful imagination, so go with it. To fly a small plane from one
-109
 
-Steve Grand
 
 place to another, the best way is not to wrestle with the controls or
 think about what you are doing but simply to imagine the result
@@ -4048,9 +3773,7 @@ different things is something I’m going to have to think about. For the
 moment I’m assuming that they are at least strongly connected, and
 I’ll refer to this internal predictive model or models in general terms
 as ‘imagination’. I want Lucy to be imbued with an imagination.
-110
 
-Growing Up with Lucy
 
 One thing that strikes me as notable about the narrative that’s going
 on inside our conscious minds is that it can be maintained and adjusted
@@ -4091,9 +3814,7 @@ but not necessarily as discrete symbols, just sequences of mouth movements and p
 wait to hear ourselves speak before we know what we were going to
 say. The parts of the narrative that keep just ahead of what we are
 hearing or reading (as in the jigsaw anecdote above) are not verbal
-111
 
-Steve Grand
 
 either — you will have ‘seen’ the jigsaw piece and maybe, had I been
 more descriptive, have heard the sea whispering across the pebbles
@@ -4133,9 +3854,8 @@ the apparent uniformity of the cerebral cortex. Such a thought doesn’t
 necessarily get me very far with building Lucy, but at least it’s a handle
 to pick the problem up with. It helps get the ball rolling. I wonder
 what I'll think of next...
-112
 
-CHAPTER ELEWEH
+CHAPTER ELEWEH
 Learning to fly
 
 Before Lucy became an orang-utan she was an eagle (see plate 5). That
@@ -4168,9 +3888,7 @@ on. Even when we seem to be making a discrete decision it could be
 simply that some continuously variable tendency has passed through
 a critical threshold and become a ‘decision’, in much the same way
 that water suddenly boils as the temperature gradually rises.
-113
 
-Steve Grand
 
 In many respects, trying to keep a glider aloft by keeping it straight
 and level, deciding whether and how long to stay in a thermal or
@@ -4210,16 +3928,12 @@ directions to compensate for the turbulence and maintain a constant
 rate of roll.
 If the desired flap angle is regarded as a first-order desire, then the
 desired rate of roll can be thought of as a second-order desire. To reach
-114
 
-Growing Up with Lucy
 Cm (yaw)
 
 Elevator (pitch)
 
 Aileron (roll)
-
-Figure 15 The three axes of rotation and the control surfaces that affect them
 
 and maintain a desired rate of roll, we have to keep adjusting the rate
 of acceleration, and hence the flap angle. In making this goal-seeking
@@ -4244,9 +3958,7 @@ servos chained together, two of them virtual and one physical, we can
 fly the aircraft simply by specifying what angle of bank we want to
 achieve. Push the joystick to the forty-five degree position and the
 third-order servo will tell the second-order servo that it initially desires
-115
 
-Steve Grand
 
 a rapid rate of roll to the left. The second-order servo will attempt to
 achieve this by telling the first-order one to accelerate the aircraft’s
@@ -4287,9 +3999,7 @@ direction, the reading will be inaccurate (because gravity and acceleration are 
 pointed out), so some extra com-
 
 putation is required. Alternatively, the angle of bank could be measured
-116
 
-Growing Up with Lucy
 
 optically, using the horizon as a reference, in which case some kind of
 simple visual processing would be required.
@@ -4331,9 +4041,7 @@ begin a turn, the nose will start to drop. But the elevator servo chain
 has been explicitly told to keep the pitch angle at zero, and so it will
 automatically respond to the dropping nose by applying alittle upelevator. The servo chains don’t need to talk directly to each other,
 and we don’t need to lift a finger. Such behaviour is extremely common
-117
 
-Steve Grand
 
 in living things too. If we decide to lift one leg off the floor, we don’t
 simultaneously have to think to alter our balance to bring our centre
@@ -4378,9 +4086,7 @@ for themselves, through trial and error. Ideally, the servos would even
 
 work out which other servos they should be influencing, in order to
 minimise the difference between their own target and actual states. In
-118
 
-Growing Up with Lucy
 
 other words, the servos would be capable of both wiring themselves
 up into chains or networks, and altering their own internal rules.
@@ -4419,96 +4125,7 @@ Every servo has a present state - some numerical measure derived from
 senses that tells it how the world is. If we lay the servos out in a sheet
 then these present state values could be represented as vertical bars on
 a three-dimensional bar graph. The complete forest of vertical bars
-defines a surface: a landscape representing the total sensory state of
-119
-
-Steve Grand
-aE
-
-WSUS
-
-f
-
-Target
-states
-
-FSO
-
-o PVA
-
-:
-
-AS
-
-EES
-Re SEER Ba\\
-Ais
-5
-:
-LOTS
-RR
-aR
-OY:
-
-Asingle
-
-a
-
-servo unit
-
-3%
-
-.
-
-YXSe
-
-AY
-
-Target
-50%
-
-Actual
-(sensory)
-states
-i
-
-So
-
-ok Boe
-ae
-T
-
-KA
-
-A
-AeA
-2
-.
-
-Actual
-= AAS
-
-2
-
->.
-
-:
-
-sx.
-
-80%0,
-
-3
-
-Outputs
-
-Output
-
-30%
-
-Figure 16 Array of ‘servos’ showing the Target, Actual and Output activity surfaces
-
-the creature and, as the external world changes, this surface will buckle
+defines a surface: a landscape representing the total sensory state of the creature and, as the external world changes, this surface will buckle
 
 up and down. Similarly, the target states can be mapped out as another
 quite separate surface. The job of the creature’s entire brain is to bring
@@ -4527,199 +4144,7 @@ the physical servomotors connected to the glider’s flaps). The outputs
 of these servos would cause changes, not in the internal world of the
 creature’s desires but in the external world: muscle movements that
 eventually alter the creature’s sensory state in return.
-At first these sensory changes will be primitive, but they will cul120
-
-=
-= aVv Y 3° E OQ,Vv ~ 2 5 ¢ oSVv E oO c S ~& c co Zi ~ a 5
-oO <
-Gen ° So e vv
-Q,= 0 oO & caoO 3 q 5 ~~a q oO
-approaching primate level intelligence
-—
-
-N —_—_
-
-—_
-
-—
-
-_
-
-—
-
-N
-
-—
-
-+
-
-—
-
-_
-
-Peta is the adopted ‘granddaughter’ of Gary Shapiro, VP of the Orangutan Foundation
-International. For more information see www.orangutan.org
-Image © Sharon Gekoski-Kimmel 2000
-
-© c v ° aay53 o SS
-nl
-
-Oo 5
-
-a oO.3 _— Oo OQ° 3S v Dn
-
-ON bre
-
-ene S@eycili Lid.
-
-i. ' a SLDty
-
-: a)
-7,
-Woe
-aa
-Nae EN)
-ae
-
-at ppvecs
-
-SUG
-
-d
-
-Lie
-
-Be
-
-aerate
-
-ae
-
-ae
-
-SA
-POTssher
-i
-
-Maas
-
-y,
-oe nue
-AL Satie
-
-oo
-
-3
-eae Rae
-
-re
-
-eij
-ty
-
-ei
-
-ee
-ayeae ees
-
-CEREBRAL HEMISPHERES
-.
-
-Frontal lobe
-vu
-
-£m
-Ye
-ae ~~
-ce
-
-Parietal lobe
-
-o~%
-q
-
-Occipital lobe
-
-Thalamus
-Superior Colliculus
-
-Brainstem
-~— Spinal cord
-
-SUBCORTICAL STRUCTURES
-The cerebral cortex (top) and some of the major
-
-sub-cortical structures
-
-Before Lucy was an orangutan, she was a model motor-glider
-
-The growth of orientation detectors in Lucy’s V1
-
-Small section of V1, showing the
-distribution of dendrites before Lucy’s eyes
-have opened. Notice that all the cells have
-
-roughly circular receptive fields
-
-After exposure to moving lines the cells
-have become specialised to detect different
-
-Lucy staring at a display of moving stripes. She could learn equally well by looking
-
-orientations. Each small region of visual
-
-around at the real world, but the computer display allowed me to control the conditions
-
-space tends to have a cluster of cells
-
-and try various experiments
-
-representing every possible orientation
-
-CLOSE
-
-If Lucy is only shown vertical lines then
-receptive fields develop only one kind of
-directional specificity
-
-| eb tiene Micvoronveo
-
-c[[54
-
-Some windows into Lucy’s brain, showing the distorted view through her eyes (top
-centre), the firing of some of her V1 neurons (top left) and the patterns formed by
-dendrites in a small part of V1 (bottom left)
-
-After learning, this is the pattern of cell
-activity produced on the surface of V1 by a
-chequerboard pattern. The white dots
-represent cells that are stimulated by an
-edge to whose orientation they are
-particularly sensitive
-
-well-connected edges get selectively enhanced
-
-the battle continues
-
-wine
-until one surface momentarily wins
-
-causing a saccade that centres the gaze on it
-
-Simulation of how Lucy’s V1 isolates a bounded
-surface and focuses her attention on it
-
-— =} Oo>~
-
-=
-
-OVv
-
-bo S Nn ~o peoS 4Vv Nn 1S oS Oo.Vv
-
-Growing Up with Lucy
-
-minate in behaviour that reduces one or more drives, by locating food
+At first these sensory changes will be primitive, but they will cul1minate in behaviour that reduces one or more drives, by locating food
 and eating it, for example. Eventually the creature will return to its
 comfort zone, with the two surfaces meshing once again, perhaps now
 in a different configuration. More likely, the surfaces never quite mesh,
@@ -4744,25 +4169,15 @@ of how the creature is, then the desire surface is a mental
 state — a description of how the creature wants to be. Indeed it is a
 description of how it expects things to be, once the servos have had
 the chance to do their work and bring the sensory surface back into
-line. It is, therefore, a model of the anticipated future state of the
-
-world.
+line. It is, therefore, a model of the anticipated future state of the world.
 Is this just a flight of fancy, or are we starting to glimpse the outlines
 of an explanation for why we have an imagination?
 
-121
-
-CHAPTER
-
-TLWEBUE
+CHAPTER TWELVE
 
 Yin and yang
 
-Intuitively, we tend to think of the brain as something
-
-akin to a
-
-production line. I call this the ‘sausage machine model’, because it
+Intuitively, we tend to think of the brain as something akin to a production line. I call this the ‘sausage machine model’, because it
 implies that information flows in at one end of a tube and gets churned
 around inside the machine before being spewed out of the other end
 as some kind of action. We seem to use our senses to recognise the
@@ -4791,9 +4206,7 @@ do they feed forward?
 Several other things strike me as odd when I try to work out how
 the various cortical maps are inter-wired. It may be that I’m wrong
 about this. After all, I’m not a neuroscientist, and cortical wiring is
-122
 
-Growing Up with Lucy
 
 extremely messy, complex and hard to pin down, but after drawing
 together a consensus of information from many neuroscience papers,
@@ -4816,50 +4229,7 @@ I can essentially be disregarded, as it contains very few neurons (it is
 from the maze of nerve fibres in layer 1 that many of the other layers
 receive signals).
 
-pane
 
-V2 thick stripes
-V3, MT
-
-Parvocellular
-
-V2 inter-stripes
-
-,
-
-V2 thin stripes
-
-visual input
-‘Feedback’
-to LGN
-
-V2, V3, V4, MT
-MT
-
-Input from
-Lhe or
-
-higher cortex
-
-Input from
-
-Output to
-lower cortex
-
-Superior
-Colliculus etc.
-
-Output to
-
-lower cortex
-
-higher cortex
-
-Output to
-motor systems
-
-Figure 17 Major inputs and outputs of cortical area V1, plus a generalised map for
-cortex as a whole
 
 This is all a bit confusing; so let me risk over-simplifying the structure
 still further. Let’s ignore layer 1, which consists largely of axons and
@@ -4867,9 +4237,7 @@ dendrites. Let’s also for the moment combine the large pyramidal cells
 in layers v and vi into one layer. Now we have a kind of club sandwich,
 with two layers made mostly from small granular cells (layers 1 and
 Iv), interleaved by two layers made from pyramidal cells (11 and v +vi).
-123
 
-Steve Grand
 
 Let’s rename these idealised layers A, B, C, D, as.in figure 18. Now
 we can see more clearly that there are two main chains of signals, one
@@ -4878,24 +4246,7 @@ layer B. It then passes on-to the next cortical map, entering in layer C
 again. Cb BBC DB... The other chain flows out of one cortical
 
 map from layer D and enters the ‘previous’ (closer to the raw sensory
-input) mapinlayerA.DBABDDBA...
-Output to
-higher cortex
-
-Input from
-higher cortex
-
-Input from
-senses
-
-Output to
-lower cortex
-
-or lower cortex
-
-(and motor systems)
-
-Figure 18 ‘Club sandwich’ model of cortical connectivity
+input) mapinlayerA.
 
 Now, if this simplification holds true, something is wrong. For the
 sausage machine model to make sense, we would expect to find that
@@ -4914,27 +4265,7 @@ sensory end at layer D and projecting to something sub-cortical,
 and indeed this is what happens (from V1 it projects to the superior
 colliculus, of which more later) but this doesn’t fit the sausage
 machine model at all.
-124
 
-Growing Up with Lucy
-We might expect
-Inputs from
-
-motor outputs to
-
-senses
-
-arise from here,
-but they don’t!!!
-
-Actual source
-
-2
-
-of outputs to
-motor systems!!!
-
-Figure 19 Several club sandwiches connected together
 
 What are we to make of all this? Well, before I tell you what I make
 of it, I need to emphasise yet again that I may be wrong. I’ve checked
@@ -4967,9 +4298,7 @@ one end, abstracts it, recognises it and spews motor signals out of the
 other. If anything, it looks like an outgoing signal and a returning
 echo, although since the creature’s environment also bounces back
 the consequences of any motor actions to the brain via the senses, it
-125
 
-Steve Grand
 
 is not obvious which of the two paths should be regarded as the echo —
 maybe a loop is a more accurate description.
@@ -5011,26 +4340,6 @@ enters the other maps. This might mean that it has no sensory inputs
 at all, but I think it is probably more accurate to say that it has a
 reduced granular layer, which simply implies that its sensory inputs are
 comparatively sparse. One might expect M1 to receive some kind of
-126
-
-Growing Up with Lucy
-
-Limbic System
-
-“ Voluntary
-
-De
-
-‘Yin’
-
-muscles
-Colliculus
-
-Proprioceptors
-
-‘Yang’
-
-Figure 20 Tripod model
 
 proprioceptive input; signals about the present dispositions of the
 muscles and joints that it controls. These signals might not be raw
@@ -5057,11 +4366,7 @@ both sensory and motor signals at the bottom end. So what happens
 at the top of the pyramid, where the sticks meet each other? One
 possibility would be that there is some kind of master controller sitting
 here, receiving processed sensory signals from the CBCB pathways,
-127
 
-’
-
-Steve Grand
 
 making decisions and then sending down abstract motor commands
 though the ADAD pathways. But I don’t think this is right. The whole
@@ -5101,7 +4406,6 @@ motor maps. The problem with these two phrases is that top-down is
 often equated in people’s minds with centralised control. This is
 because in hierarchical systems like the armed forces or large cor128
 
-Growing Up with Lucy
 
 porations, information flowing from the top downwards usually emanates from a central source: the chief executive of a pyramid of
 command. The concept of centralised control is anathema to many
@@ -5129,9 +4433,7 @@ the internal mental state — our desired or anticipated or intended state.
 On that reckoning, perhaps the yang signal is the key to everything;
 perhaps this is the source of what I’ve been calling ‘imagination’.
 
-129
-
-CHAR TERvebhl ea eee
+CHAPTER THIRTEEN
 Hallucinations
 
 What we normally mean by imagination is our ability voluntarily to
@@ -5163,9 +4465,7 @@ perception and mental imagery (or mentation, to use a less visually
 specific term) take place in the very same regions of the brain and
 therefore must, at least partially, share the same circuitry. We clearly
 don’t have a separate and specialised ‘imagination engine’.
-130
 
-Growing Up with Lucy
 
 It’s as if we are projecting some information back from a higher
 cortical map to a lower one, in such a way that the lower map responds
@@ -5205,9 +4505,7 @@ We can see here the bi-directional and multi-level nature of attention. At the l
 involved, our superior colliculi respond quite automatically to strong
 sources of motion in the visual scene, by guiding our eyes towards
 them (see chapter 14). The sensory signal thus only travels through
-131
 
-Steve Grand
 
 one stage of processing before being reflected straight back the way it
 came, to cause an eye movement.
@@ -5249,11 +4547,7 @@ at this illusion, and these contextual clues combine with each other
 
 to force a diplomatic compromise, in which you are obliged to accept
 the existence of lines that you can’t really see. At a low level, the
-132
 
-Growing Up with Lucy
-
-Figure 21 The Kanisza triangle illusion
 
 angled corners of the circles suggest the existence of line segments,
 which your brain then extrapolates and joins up into a triangle. At a
@@ -5279,9 +4573,7 @@ For example, suppose I show you a sequence of objects and ask you
 to shout whenever you see an object that could be used as a weapon.
 You’d probably take quite a time to react to each object, as you figure
 out what it is and apply the most devious parts of your mind to
-133
 
-Steve Grand
 
 deciding how to hurt someone with it. Now suppose I do the same
 thing again but this time ask you to shout whenever you see something
@@ -5323,9 +4615,6 @@ Our auditory cortex is arranged as a tonotopic map, in which different locations
 to imagine how the pattern of activity across the surface of this map
 might trigger the recognition of a tune (or several equally possible
 
-134
-
-Growing Up with Lucy
 
 tunes) in a higher map. This context could then project predictions
 back down along the yang pathway, priming notes that might occur
@@ -5366,9 +4655,7 @@ is one cell cluster and the point where each cocktail stick penetrates
 the skin is a different cell in that cluster. The direction of movement
 coded for by that cell is represented by the direction in which the
 cocktail stick points. When we decide to move a limb, a large percentage of the cells in each relevant joint cluster will fire, with the
-135
 
-Steve Grand
 
 peak activity centred on the direction in which the limb is to move.
 The actual movement will be very precisely determined by the average
@@ -5410,9 +4697,7 @@ might that represent? Well, perhaps it is a completion signal - a
 measure of the remaining difference between the desired state and the
 actual state of the servo. If so, then this provides the secondary map
 with precisely the information it would need to determine how close
-136
 
-Growing Up with Lucy
 
 it is to satisfying its own desired state, as placed on it by an even higher
 map. In other words, this signal provides the sensory input (actual
@@ -5452,7 +4737,6 @@ enhance or suppress the signals rising up the yin pathway. This forms
 a maze of yin-yang loops, in which each signal is affecting the other.
 The whole system tries to maintain a balance of yin and yang, min137
 
-Steve Grand
 
 imising the differences between the patterns of signals at each level,
 
@@ -5479,9 +4763,7 @@ I think it’s time to start exploring some of these things in a practical
 way, by trying to build Lucy a brain. Or at least, a few fragments of a
 brain.
 
-138
-
-CHAPTER,
+CHAPTER,
 
 FOURTEEHM
 
@@ -5514,9 +4796,7 @@ away from it and flees towards the nearest shelter. Such feeding and
 fleeing behaviours are triggered by the optic tectum, which constitutes
 the very highest part of the frog’s visual system. For all I know, if the
 stimulus is green and moves ina sexily frog-like way, the optic tectum
-139
 
-Steve Grand
 
 might even be the part of the brain responsible for, triggering a third
 behaviour beginning with ‘f’, thus cee the frog’s rather limited
@@ -5555,9 +4835,7 @@ perform the task entirely by itself) or something more sophisticated
 these coordinate transforms need to be carried out, which must be
 
 why various cortical maps such as V1 and the Frontal Eye Fields make
-140
 
-Growing Up with Lucy
 
 use of the superior colliculus for arbitrating and computing eye and
 head movements.
@@ -5609,9 +4887,7 @@ making the right inferences from single-cell recordings, which of
 course can’t tell whether a firing cell belongs to a large group or not)
 in the parietal lobes and elsewhere. Intuitively, you might think that
 signals pass through the brain in nice, neat, data streams, like bits
-141
 
-Steve Grand
 
 level
 Activity
@@ -5623,8 +4899,6 @@ o
 Ok
 
 Sheet of neurons
-
-Figure 22 Activity dome in an array of neurons
 
 flowing around the wires in a computer. Those people who work with
 very small neural networks will be especially biased towards such a
@@ -5651,9 +4925,7 @@ two stones into a pond, and see where the ripples interfere? The trouble
 with this is that the maximum interference occurs along a line between
 the two, not at a point, and if the ripples aren’t synchronised, this line
 isn’t even in the middle.
-142
 
-Growing Up with Lucy
 
 Another way to look at this problem is holographically. Suppose
 each active cell made some contribution to the activity level of every
@@ -5688,8 +4960,6 @@ from both stimuli
 produces a peak
 at the mid-point
 
-Figure 23 Combining activity domes to find the mid-point
-
 This is a solution to a fairly pointless problem but I hope it demonstrates that input stimuli to a map can interact in interesting ways
 as long as they are smeared out so that every point on the map receives
 some contribution from them. Then every data point overlaps with
@@ -5702,9 +4972,7 @@ makes some contribution to every single point on the film. Like holography, whic
 far beyond the production of pretty three-dimensional images, this
 smearing out (or convolution, see chapter 8) of signals may have
 implications for many of the brain’s functions, including the computing of conditional coordinate transforms.
-143
 
-Steve Grand
 
 How might we use this idea of domes of activity to compute the
 coordinate transforms involved in saccading our eyes towards a visual
@@ -5753,9 +5021,7 @@ interesting property. Figure 24 shows the result of combining two
 domes, seen in section. Look at the heights of the dome where it
 intersects the left and right edges of the right-hand graph. Amazingly,
 these two heights are more or less proportional to the amount of force
-144
 
-Growing Up with Lucy
 
 we need to apply to the left and right muscles of the eye, in order to
 bring the gaze to centre on the visual stimulus.
@@ -5782,8 +5048,6 @@ the ‘left’, ‘right’,
 muscles to bring
 gaze onto target
 
-Figure 24 Model of the superior colliculus, using activity domes
-
 If the eyes are looking straight ahead, and the stimulus is in the
 centre of the visual field, the two domes interact to produce another
 dome, which is also centred, and hence produces the same levels of
@@ -5796,9 +5060,7 @@ the two edges of the dome to the eye muscles, they will now pull
 equally and cause the eyes to centre, bringing the stimulus into the
 centre of the visual field. This principle continues to work, regardless
 of the relative positions of the eyes and the visual stimulus. It also
-145
 
-Steve Grand
 
 works in the up-down direction as well as the left-right one. Simply
 read off the signals from the centre of each edge (although in practice
@@ -5848,9 +5110,7 @@ these principles that would enable Lucy to control her various arm
 muscles in order to point to a given direction in body-relative space.
 The similarities between the two structures are quite striking and even
 though the superior colliculus is a sub-cortical structure, I feel like I
-146
 
-Growing Up with Lucy
 Buildup
 
 Transform
@@ -5872,7 +5132,6 @@ coordinates
 signals
 
 (eye-relative)
-‘
 From retina
 
 (motion)
@@ -5883,9 +5142,6 @@ emp
 From V1
 excel
 (see chapter 16)
-
-.
-1
 
 Signals to
 eck & eye
@@ -5904,7 +5160,6 @@ proprioceptors
 (current head
 & eye positions)
 
-Figure 25 Lucy’s superior colliculus (using a slightly different approach from that
 described in the text)
 
 am beginning to glimpse some of the common
@@ -5922,9 +5177,7 @@ conventional account of V1 makes no mention of them. First I must
 create a V1 for Lucy that can do what the experts say our own V1 does.
 Then I'll take a look at what use this might be.
 
-147
-
-CHAPTER
+CHAPTER
 
 GR TEE
 
@@ -5957,9 +5210,7 @@ But once you’ve done it you are able to learn from your experience,
 lay down new knowledge or a new skill, so that next time you can do
 it without having to think and can use this new information to help
 you work out what to do in other novel situations.
-148
 
-Growing Up with Lucy
 
 Lucy, like the infant Einstein, will have to learn everything from
 scratch. And I do mean everything. Babies don’t seem to do much for
@@ -6001,9 +5252,7 @@ undergo considerable revision in recent years, but it is still true that
 most babies develop in a very characteristic and describable way. I
 shall have to come back to this topic later, since the relationships
 between genes and environment and between development and learning, and particularly how these influence the structure of our brains,
-149
 
-Steve Grand
 
 are an important area to think about. But for the moment I want to
 examine how learning takes place in the brain at a much finer level of
@@ -6054,9 +5303,7 @@ region of visual space much wider than the column itself, with the
 amount of contribution fading off symmetrically with distance.
 Imagine we now project the image of a line on to Lucy’s retina and
 examine the behaviour of a small area of cortical neurons straddled by
-150
 
-Growing Up with Lucy
 EE
 
 Re
@@ -6065,9 +5312,7 @@ ce
 
 ae ae ae
 
-ee
 
-ee
 
 S
 eee
@@ -6105,7 +5350,6 @@ oe
 SLE
 Ke oe eee eee
 
-52
 ee ee ee oe we ae
 HEHE RES
 RH
@@ -6116,13 +5360,6 @@ VEC
 RPESEDS
 
 CERES
-22
-
-=
-
-;
-
-2
 
 See
 
@@ -6150,8 +5387,6 @@ K SRKS Be
 
 Sasamawawmumenann
 
-:
-
 See
 eee eee
 ee we
@@ -6168,9 +5403,7 @@ eee eS Oe
 
 eS
 
-ee
 
-ee
 
 Se
 
@@ -6241,7 +5474,6 @@ LLL
 
 HTS
 
-ee
 
 Re
 eSee
@@ -6249,7 +5481,6 @@ eSee
 TRS
 See
 
-ee
 
 LLKAFKALKA
 SFLSC He SSS ew & wwe
@@ -6301,7 +5532,6 @@ Se
 
 eS wes
 
-ee
 
 SSeS
 
@@ -6315,17 +5545,10 @@ Each neuron receives
 A fragment of Lucy’s V1 with the
 neurons teased apart to show their
 individual receptive fields
-%
 
 connections from a
 roughly circular cluster
 of visual axons at first
-
-7
-
-.
-
-Figure 26 Lucy’s V1 before exposure to visual stimuli
 
 the line. Many neurons in this cluster will try to respond to the
 existence of the stimulus, because they have overlapping receptive
@@ -6346,9 +5569,7 @@ making those synapses that contributed to the firing of the cell (by
 conducting a signal) more excitatory, while the ones that didn’t contribute (because they were away from the stimulus) become more
 inhibitory. The upshot of this is that the cell’s receptive field becomes
 ‘tuned’ to the signal produced by this particular line. This makes it
-151
 
-Steve Grand
 
 even more responsive to this particular stimulus in the future, whereas
 the cells that have been suppressed by lateral inhibition fail to become
@@ -6367,7 +5588,6 @@ dot is a cell tuned to that orientation, and the dots are spaced out
 because of the way that lateral inhibition prevents more closely spaced
 cells from sharing the same preference.
 
-Figure 27 How an image of a checkerboard pattern appears as activity. levels in the
 orientation detectors in Lucy’s V1
 
 Now imagine a line at a different angle is presented to the same
@@ -6379,9 +5599,7 @@ that lost out in the previous competition — suddenly find themselves
 with an opportunity. More wrestling takes place and some of these
 cells win out over their competitors, becoming more tuned to the new
 angle. Again these winning cells will tend to be spaced out, because
-152
 
-Growing Up with Lucy
 
 cells that are too close together get strongly inhibited. The result of all
 this, after many trials, is that each cell becomes more and more strongly
@@ -6420,9 +5638,7 @@ it gradually tunes itself to detect and map out the orientations of
 edges. The result of this self-organisation into clusters of orientation
 preferences exactly mirrors what we find in real cortex.
 To get this to work I trained Lucy by showing her moving pictures
-153
 
-Steve Grand
 
 Oe
 aE
@@ -6438,7 +5654,6 @@ alae
 SN
 NE
 cee
-ee
 Se
 eS
 (TET
@@ -6450,7 +5665,6 @@ SSE
 ‘S008
 Ee ‘RE
 ak
-ee
 Ge
 RE
 Ee
@@ -6464,8 +5678,6 @@ to randomly oriented lines
 
 respond to edges of
 specific orientations
-
-Figure 28 Lucy’s V1 after exposure to visual stirnuli
 
 of stark black lines at various angles but this was only to make the
 experiments quick and reasonably repeatable. In fact she can develop
@@ -6489,9 +5701,7 @@ to get at the underlying principles of what it is doing. Exactly why does
 it do this, and how can we describe what it is doing in more general
 terms that aren’t tied so tightly to vision?
 Perhaps the answer to the second question is that V1 is detecting
-154
 
-Growing Up with Lucy
 
 correlations in its input data. The visual world is extremely messy and
 at the level of individual points of light it doesn’t make much sense.
@@ -6525,9 +5735,7 @@ robots. So I’d like to spend one more extremely speculative chapter
 exploring a specific problem of vision, before finishing up this section
 with some general principles of brain design.
 
-155
-
-GHAP TERMS i. been
+GHAP TERMS i. been
 
 Tilting at windmills
 Try this experiment: when I say go, I want you to close your eyes and
@@ -6559,9 +5767,7 @@ everything seems to remain perfectly anchored in space.
 If you try hard you can force the mental image to remain locked to
 your eye-line, but when I do this I usually find that the image splits
 into two, with an effect like a pair of scissors opening. Even though
-156
 
-Growing Up with Lucy
 
 one image tilts with my head, a ghostly version remains stubbornly
 locked to the horizon. I find that mental images of smaller objects are
@@ -6587,8 +5793,6 @@ expect to happen
 The ‘scissors’
 effect
 
-Figure 29 Tilting at windmills
-
 So what does this mean?
 To be honest I haven’t a clue, but it’s odd, don’t you think? Are we
 
@@ -6601,15 +5805,12 @@ source for such a signal is the balance sensors in our inner ear, but it
 isn’t any kind of an explanation in itself. We can’t just pass over it
 with an airy wave of the hand, because it begs a lot of questions about
 how such a reference signal is represented and applied to the mental
-:
 image.
 Perhaps it is something between the two extremes. The more I play
 with my visual imagination, the more it seems like I am able to track
 the movement of only a small number of key points on my mental
 image, rather than a detailed picture, and then the picture reconstructs
-157
 
-Steve Grand
 
 itself when my head is still. In fact, mental images are very much like
 this anyway: you see the detail when you specifically look for it but
@@ -6652,11 +5853,9 @@ familiar object even when it is viewed from a completely unfamiliar
 angle.
 Coordinate transforms and other spatial transformations seem to be
 a common feature in the cortex, and large parts of the parietal lobes
-158
 
-od
+od
 
-Growing Up with Lucy
 
 seem to be involved in performing on-the-fly transforms from retinal
 coordinates into such things as shoulder-centred coordinates, to enable
@@ -6696,11 +5895,7 @@ V2’s structure of thick stripes, thin stripes and inter-stripes.
 Never mind the meaning of these different streams; what interested
 me was why the blobs in V1 should become stripes in V2. It was only
 an idle thought, but the more I thought about it, the more odd I found
-159
 
-Steve Grand
-
-Figure 30 Sketch of cytochrome oxidase staining across V1 and V2
 
 it. When you look at the actual layout of V2 and V1 on the cortex,
 you find that V2 butts up against one side of V1, with the stripes in
@@ -6727,9 +5922,7 @@ being processed by V2 has fewer dimensions, compared to that in V1
 
 one of these dimensions from the visual signal? This is a pure flight of
 fancy, but what the heck!
-160
 
-Growing Up with Lucy
 
 Remember I said that part of the visual system (probably connected
 with the temporal lobes) might convert the image of an object from
@@ -6769,9 +5962,7 @@ boundary and doing the same to another surface. Certainly such
 boundary crossing is important for working out which surfaces enclose
 or partially occlude other surfaces.
 This is rather heretical stuff, I warn you. V1 has long been viewed as
-161
 
-Steve Grand
 
 the first stage in a passive sensory processing pipe-line, acting rather
 like a personnel officer sifting through a large number of job applications before sending the good ones on to management for further
@@ -6812,9 +6003,7 @@ travel across the map: one directly outwards along the radial connections and on
 project a precisely centred, circular stimulus on to the map, two circular
 waves of activity would arise, one travelling outwards and one inwards
 (like the ripples you’d get if you dropped a hoop into water). Note that
-162
 
-Growing Up with Lucy
 
 all of the ingoing signals would meet in the centre at exactly the same
 moment.
@@ -6857,11 +6046,8 @@ reality.
 One more step and we have a complete system. Every cell on this
 new second layer now receives exactly the same ‘time signature’ from
 the shape, but neighbouring cells get the signature at slightly different
-163
 
-Steve Grand
 
-Figure 31 ‘V2’ activity patterns for various apple and banana shapes, presented at
 different positions, orientations and scales
 
 times. That means we could take a snapshot at any single moment and
@@ -6887,9 +6073,7 @@ patterns can suggest new places for the eyes to look. Also, this system
 isn’t much use for recognising complex, multi-part, three-dimensional
 objects without still further maps that I don’t yet know how to build.
 I’m not pretending that this is any kind of an answer, but it does seem
-164
 
-Growing Up with Lucy
 
 to work after a fashion, and it’s weird and unconventional enough to
 suggest that it might lead somewhere eventually, so I’m currently using
@@ -6922,9 +6106,7 @@ point at the banana. This might not seem much of an achievement
 to you, but it’ll make me a very proud father indeed, and choosing between bananas and apples is quite a big deal if you’re a robot
 orang-utan!
 
-165
-
-CHAPTER: ‘SEVENTEEN
+CHAPTER: ‘SEVENTEEN
 The dreamtime
 
 ‘Do androids dream of electric sheep?’ wondered Philip K. Dick. More
@@ -6953,9 +6135,7 @@ dangerous and unbalanced and to confuse the two is obstructive.
 Beauty and truth are like the faintest of stars: to see them you must
 avoid looking directly at them. You must approach their presence
 circuitously and reverently, avoiding the monarch’s eye. But to do this
-166
 
-Growing Up with Lucy
 
 you need to know precisely and unambiguously where not to look.
 This is why we need both art and science, poetry and prose.
@@ -6994,9 +6174,7 @@ takes many years to complete. Ideally, from a human perspective, it
 takes a lifetime. I’m sure I am more conscious and alive today than |
 was when I was six months old; I suspect I am slightly more conscious
 than I was when I was in my teens. With luck and a good deal of effort,
-167
 
-Steve Grand
 
 I aim to be more conscious still by the time awareness is finally
 snatched from me, although toil and tears, and perhaps senile dementia, may decompose me sooner than I'd like. Most of this organising
@@ -7038,7 +6216,6 @@ Pleasingly, we find that our own sounds seem to have an effect on
 other people, while we discover with less pleasure that certain sounds
 from other people are sometimes correlated with an unpleasant experi168
 
-Growing Up with Lucy
 
 ence, such as a slap on the wrist, although we soon learn how to stop
 the bad sounds and invoke the good ones. Ultimately, these tiny
@@ -7077,9 +6254,7 @@ effect so as to construct complexity out of simplicity can be seen in —
 you guessed it — area V1 of the cerebral cortex. Something I haven't
 previously told you about V1 is that the signals from both eyes converge on to the cortical surface (each half of the visual field entering
 different hemispheres of the brain) in a highly organised way. Where
-169
 
-Steve Grand
 
 the axons initially enter layer 1v, the fibres emanating from the two
 eyes are completely overlapped, like two packs of cards that have been
@@ -7119,9 +6294,7 @@ at in the darkness of the womb) to fire off spontaneously. If one retinal
 cell fires, it is likely to trigger off its neighbours, so what tends to
 happen is that a spreading wave of activity arises from a random spot
 and grows across the retina like a bush fire. Then there is a brief lull
-170
 
-Growing Up with Lucy
 
 while the neurons recharge, before another spontaneous burst causes
 another wave, emanating from a different centre.
@@ -7162,9 +6335,7 @@ What a clever trick. All you need to do is to make sure that the
 developing retina produces spontaneous activity during the period
 when the first layer of cells is growing (neurons automatically do this
 in the absence of any other source of input signals anyway) and then
-171
 
-Steve Grand
 
 make sure that real visual stimuli are available by the time the second
 phase of growth occurs. You hardly need any genetic instructions at
@@ -7202,9 +6373,7 @@ ability to recognise objects might plausibly result from a transformation from v
 Coordinate transforms are everywhere, and it seems a safe bet that
 every cortical map represents a particular kind of space, whether it is
 a physical space, like the visual field or the space that an arm can reach
-172
 
-Growing Up with Lucy
 
 into, or a notional space (more on which in chapter 18).
 We can make a bold assertion about these coordinate frames: if
@@ -7245,9 +6414,7 @@ and modified, departing from the map in a new arrangement, then
 this new pattern carries information about the structure of the map it
 has just passed through and can make this information available to
 the next map downstream. I don’t have space or enough confidence
-173
 
-Steve Grand
 
 in the details to go into this much more fully here, but it is a very
 tantalising idea. Remember the yin and yang pathways? If information
@@ -7288,7 +6455,6 @@ This concept is so interesting and has so many ramifications that it
 could form the basis of a whole book. I can only skim the surface of it
 here, and hope that you will find it an appealing idea that the large174
 
-Growing Up with Lucy
 
 scale structure of the cerebral cortex might plausibly result from a
 resonance or tension between yin and yang signals. This is very similar
@@ -7330,9 +6496,7 @@ activity during a period when food is not available. Likewise, we
 evolved the ability to sleep in order to keep us safe and energyefficient during the period when our own food is impossible to see and
 nocturnal predators hard to detect. If a squirrel isn’t being reminded
 about the location of stored nuts and the properties of trees and
-175
 
-Steve Grand
 
 predators by repeatedly experiencing them, why doesn’t it forget all
 about them by the spring, in the same way that my visual cortex
@@ -7366,9 +6530,7 @@ complex, self-organising, intelligent machines.
 I’m probably just fooling myself, but hey, a guy can dream, can’t
 he?
 
-176
-
-CHAPTER EIGHTEEH
+CHAPTER EIGHTEEH
 Fusion (and some confusion)
 
 One of the best ways to irritate an academic is to tell them that their
@@ -7399,9 +6561,7 @@ sometimes chooses not to co-operate. Where are the signs of volition,
 of deliberation? Do we have enough yet to suggest that a genuine
 sense of agency will eventually arise if we simply add more cortical
 maps? Where might such coherence and self-determination come
-177
 
-Steve Grand
 
 from, that we might one day feel justified in calling one of Lucy’s
 descendants ‘she’? It’s time to bring this section to a close with some
@@ -7449,7 +6609,6 @@ control. Our minds are not centralised
 units at the top of a hierarchy of command, but neither are we just a
 collection of cobbled-together reflexes, reacting in a wholly bottom178
 
-Growing Up with Lucy
 
 up, uncoordinated and involuntary fashion to incoming sensory
 stimuli. I’m suggesting that these top-down influences flow along what
@@ -7500,9 +6659,7 @@ intention to reach out in a certain direction) reveals itself as a build-
 
 up of nerve activity at the appropriate location in a cortical map, some
 time before the event itself. When the action finally takes place, the
-179
 
-Steve Grand
 
 nerve activity disappears. The best interpretation of this experiment
 would require us to blur the distinction between working memory (a
@@ -7549,9 +6706,7 @@ of a future stimulus), the more likely it is that the response will involve
 wholesale action on the part of the body. If we feel a fly land on our
 skin we can flick it off with a wave of our hand, even if we are riding
 a bicycle at the time — the response requires little sensory processing,
-180
 
-Growing Up with Lucy
 
 little action sequencing and doesn’t conflict with our other actions.
 Crucially, we may not even be aware that we have done it. On the other
@@ -7602,9 +6757,7 @@ of patterns would lead to conflict and a confused response, so if a map
 has been told to do (or expect or attend to) one thing, it cannot
 simultaneously be ordered to do another.
 If a sensory stimulus rises only a little way up the hierarchy before
-181
 
-Steve Grand
 
 triggering a response, then the rest of the brain is free to go about its
 own business. But what if the feeder stroke rises right to the top of the
@@ -7646,9 +6799,7 @@ map, but in the absence of influences to the contrary, the map will
 bunch up into a pattern of activity all of its own, influenced by its own
 neural geometry and recent patterns of activity (that is, its history).
 Working memory, of course, would be a natural consequence if such
-182
 
-Growing Up with Lucy
 
 patterns had a tendency to retain their shape for some time after the
 incoming stimulus has been removed.
@@ -7688,9 +6839,7 @@ It explains why we are sometimes conscious of the outside world and
 sometimes only of our own imaginings. It explains why we can do
 some things simultaneously while others command our whole being.
 The problem with the idea is that it implies a tree structure, with a
-183
 
-Steve Grand
 
 root node, whereas my initial hunch for what lies at the ‘top’ of
 the much messier and more intertwined cortical network was the
@@ -7707,7 +6856,6 @@ system (HS). The HS takes input from and returns output to many
 higher maps in cortex, forming a signal loop that sounds just right for
 implementing a final mirror, which reflects any yin signals that have
 made it that far back down the yang pathway.
-}
 One of the things the HS seems to be particularly good at is making
 very rapid connections between incoming signals, which seems to
 underlie its role in the formation of episodic memories. The first time
@@ -7733,7 +6881,6 @@ whining noise sounds like and what sheer terror feels like. To reconstruct the e
 memory into a complete story. (Incidentally, from this it is easy to see
 how ‘false memory syndrome’ can exist; how people can have mem184
 
-Growing Up with Lucy
 
 ories planted in them by suggestion in such a way that they link up
 chains of events that individually are familiar but never occurred
@@ -7773,9 +6920,7 @@ a chain of command, just the top of the search through memory for a
 useful recognition or response to events — a final, fully reflective mirror
 above the stack of cortical half-silvered mirrors. It sounds like there
 may be another kind of ‘top’ to the system as well, representing the
-185
 
-Steve Grand
 
 most abstract, long-term and deliberate levels of thought.
 
@@ -7820,9 +6965,7 @@ mechanical terms: the laws of physics automatically animate the
 objects we see with our mental eyes. I can look at a computer program
 or a machine and quickly grasp its properties but I can stare at an
 equation until my eyes explode, without it speaking to me at all. On
-186
 
-Growing Up with Lucy
 
 the other hand a mathematician will see the full implications of an
 equation in a single glance, but might not be so good at thinking in a
@@ -7864,9 +7007,7 @@ concrete coordinate frames, for example the retinotopic arrangement
 of the early visual maps or the homuncular (body-shaped) arrangement
 of the somatosensory and motor maps. Some are slightly more abstract,
 as in the tonotopic maps of the auditory cortex. In some cases at least,
-187
 
-Steve Grand
 
 blobs of nerve activity may essentially form counters or tokens that
 can be moved around these maps, representing the focus of attention,
@@ -7905,9 +7046,7 @@ One final piece of idle speculation before I get too carried away:
 None of the things I’ve said so far are quite enough to explain thinkingthe stepwise, coherent manipulation of ideas and their transformation
 through various processes. As I’ve mentioned before, if I ask you to
 work out whether the letter ‘p’ is the same shape as the letter ‘d’, you
-188
 
-Growing Up with Lucy
 
 need to rotate one image and compare it to the other. It is inconceivable
 that your brain was able to grow and maintain a cortical machine
@@ -7957,9 +7096,7 @@ the real railway. If such a thing were possible, it might allow one
 cortical map to learn to control the routing of signals around the other
 cortical maps. Indeed, this cortical ‘map of maps’ could control itself,
 in a highly self-referential and self-modifying manner.
-189
 
-Steve Grand
 
 A general-purpose digital computer is nothing more thanaset of
 switches that can turn each other on and off. Combine this idea with
@@ -7993,9 +7130,7 @@ later? How can I know that I know, without first having recalled the
 answer?
 Perhaps I had better ask an academic...
 
-190
-
-_ PART FOUR
+_ PART FOUR
 
 When people ask me questions about this project, they usually
 aren’t really interested in artificial intelligence, per se. To some
@@ -8018,7 +7153,7 @@ The bulk of this book was written with these factors in mind,
 but finally I’d like to turn to a few of the implications of this sort
 of work.
 
-WE
+WE
 
 fritere
 inleeli
@@ -8032,13 +7167,6 @@ id payee
 
 he enngh, 4
 
-*
-~
-
-4
-
-;
-‘
 ae
 
 net a4
@@ -8056,7 +7184,7 @@ a yi
 
 ay
 
-CHAPTER
+CHAPTER
 
 HINETEEH
 
@@ -8088,9 +7216,7 @@ morning and I’d lost the wili to think by the time I got home, so we
 turned around again and went shopping. About mid-afternoon, we
 were browsing in the menswear section of a department store, when
 we noticed rather a lot of activity in the area where they sell television
-193
 
-Steve Grand
 
 sets. Instead of the usual handful of men waiting for their wives to
 return from the toilet, there were dozens ofpeople, simply standing,
@@ -8143,9 +7269,7 @@ hyper-intelligent master race. Perhaps they wouldn’t show much
 sympathy for morons like you and me, but they would surely make
 better stewards over their dominion than we do. I don’t fear
 intelligence. On the whole, intelligent beings are thoughtful and
-194
 
-Growing Up with Lucy
 
 insightful.’ They actively seek understanding and wisdom and they
 are acutely aware of themselves and their effects on others. No, the
@@ -8184,9 +7308,6 @@ to know that you are edible. To your right is an even more potent monster — a 
 of solid metal, capable of exceptional speed. It’s a car, driven by a highly intelligent
 professor of English literature. Oh no! Which way do you turn?
 
-195
-
-Steve Grand
 
 tell us what to think, and we read the paper that tells us what we want
 to be told. It seems to me a remarkable fact that here, in the West, we
@@ -8229,9 +7350,7 @@ beam. Actually, now that I come to think about it, perhaps it’s not the
 fear of violent machines that really troubles us at all; maybe this is just
 a smoke-screen to hide the fact that we are scared to face up to the
 question of what we are ourselves.
-196
 
-Growing Up with Lucy
 
 Oh well, I can’t create a master race anyway. In fact the whole
 concept of hyper-intelligent megalomaniac machines running amok
@@ -8272,9 +7391,7 @@ because it was having the intelligence to construct tools, and the
 concomitant development of complex cultures, that put us in this
 unstable position. But to blame it on intelligence per se would be an
 error. As a species, our best way out of this fix is almost certainly to
-197
 
-Steve Grand
 
 improve our intelligence, not diminish it. We need to understand
 more, to know more, to develop better skills, greater foresight, better
@@ -8314,9 +7431,7 @@ It isn’t simply a question of tackling each aspect of intelligence
 one step at a time either, as some suggest. There is no evidence to
 support the idea that intelligence, and especially not consciousness,
 can be put together in such a piecemeal way. Perhaps we can figure
-198
 
-Growing Up with Lucy
 
 out how to achieve visual pattern recognition in a computer-friendly
 way (although we certainly haven’t yet). Perhaps we can deal with
@@ -8358,9 +7473,7 @@ from the digital computer. It seems very plausible that we will develop
 (once we know how to wire them up) silicon chips or other direct
 implementations of massively parallel neural networks. Perhaps we
 will develop the ability to grow and use real biological neurons first,
-199
 
-Steve Grand
 
 but even though that feels like a whole different ball game in several
 respects, what I’m about to say still applies. Suppose we were able to
@@ -8400,9 +7513,7 @@ by evolving more quickly than us is borne of the same fallacy about
 intelligence being capable of abstraction and streamlining. The two
 hundred million years it took for the most primitive mammals to
 evolve into creatures like us is not a consequence of natural evolution
-200
 
-Growing Up with Lucy
 being lazy or inefficient. Why should evolving machines be any different?
 A similar but subtler argument applies to chip speed, too. Suppose
 the signals in a silicon neural network can travel thousands of times
@@ -8442,9 +7553,7 @@ believe, will be so much smarter than us because it won’t be hampered
 by all those messy feelings. This is utter gibberish. Pure reason without
 emotion is what gave us Star Trek’s Mr Spock. Pure emotion without
 reason, of course, is the province of Captain Kirk, and who is it that
-201
 
-Steve Grand
 
 always triumphs in the end? Underneath this dichotomy lies an ageold obsession with the supposed tension between head and heart.
 ‘Never let your heart rule your head’ is probably good advice under
@@ -8461,7 +7570,6 @@ are
 
 far more
 
-;
 fundamental
 
 to intelligence
@@ -8510,9 +7618,7 @@ evolved in a very different world from the concrete jungle many of us
 inhabit today, and consequently our emotional structure is ill fitted
 for the way we live. Go to a place where you feel really calm and
 happy, or choose a landscape painting that makes you feel this way,
-202
 
-Growing Up with Lucy
 
 and the chances are you will have picked somewhere that a chimpanzee
 would feel happy too. So much of our stress comes from the fact that
@@ -8558,9 +7664,7 @@ blockage, why on earth would it envy us? Playing football or going
 clubbing would be anathema to it. We mustn’t judge future artificial
 creatures by our own rules. For them to want to enslave us or even
 emulate us would require us to make the pointless and absurd mistake
-203
 
-Steve Grand
 
 of building them to want that very thing. The only technological
 reason to build them at all is so that they learn to do (and hence must
@@ -8602,9 +7706,8 @@ military ethicists to think about, since the technology itself is neutral,
 and ethics only apply to applications. Artificial creatures are no more
 malicious than natural ones. It’s human beings that we, and for that
 matter they, need to fear.
-204
 
-CHAPTER
+CHAPTER
 
 TWEHMTY'
 
@@ -8641,9 +7744,7 @@ intelligence can never succeed, because intelligence requires emotion,
 and emotion is not, and never can be, felt by machines.
 
 Even more sacrosanct than emotion is free will. At a party recently,
-205
 
-Steve Grand
 
 I found myself up against a physicist and a philosopher, who were
 arguing in favour of free will. The physicist’s position was that free will
@@ -8686,9 +7787,7 @@ profoundly important to us into something trivial and mechanical.
 A big part of the reason for this fear is the assumption that emotions
 are indivisible things, and hence machines either have them or they
 don’t. But there are five major aspects to emotion, as far as I can
-206
 
-Growing Up with Lucy
 
 see, and it may help to separate these from each other.
 The first aspect is the cause of most of the trouble: chemistry. One
@@ -8730,9 +7829,7 @@ is so much more to include. What causes the oxytocin to be produced
 in the first place? How does the mere presence of a hormone drive us
 to buy flowers or write love poems? How do we feel about how we feel,
 when we know we are in love?
-207
 
-Steve Grand
 
 These are where all the beauty and subtlety of emotions come from.
 The emotion itself may be measured and represented by a simple
@@ -8774,9 +7871,7 @@ Future intelligent robots must have emotions. They must have the
 equivalent of chemical measures of emotional intensity, along with
 their concomitant bodily effects. They must have some cognitive
 means of detecting when to have these emotions, and they must
-208
 
-Growing Up with Lucy
 
 develop a repertoire of behavioural responses that make sense. Perhaps
 they also need the facility to interpret these feelings and thus make
@@ -8827,9 +7922,7 @@ do such
 
 vitalists (and it is vitalism, no matter how much it gets dressed up in
 sophisticated clothes) think the substance of consciousness looks like?
-209
 
-Steve Grand
 
 I mean, is it simple, in the sense of a spaceless, massless, timeless
 medium, as Descartes would have it? Or is it complex, with some
@@ -8876,9 +7969,7 @@ your body and brain. They create you. Consciousness is not some vague
 goo that perpetually underlies the universe but a relative latecomer on
 the scene: something emergent, which probably didn’t exist a few
 million or billion years ago.
-210
 
-Growing Up with Lucy
 
 As such a latecomer, I am proud to be a product of the universe’s
 greatest achievement so far. I don’t want to be raw ectoplasmic jelly or
@@ -8919,9 +8010,7 @@ One final word on the subject: if consciousness is innate and fundamental, why o
 know that we cannot be conscious of the external world unless we
 possess physical sensors and the means to interpret them. Equally, we
 can’t even be conscious within the confines of our own mental worlds
-211
 
-Steve Grand
 
 unless we have the neural machinery that I’ve been searching for in
 this book. We need a mechanism that can represent our thoughts and
@@ -8965,9 +8054,7 @@ for building robots like Lucy is to help us articulate these issues and
 hopefully make a little more sense of them.
 Justice and freedom bring me to my last topic, which is no less
 stressful to think about and no less urgent either. Before I leave this
-212
 
-Growing Up with Lucy
 
 chapter I suppose I have no choice but to return to the question of
 free will.
@@ -9011,12 +8098,10 @@ I suppose, when it comes down to it, I could simply choose to believe
 in free will because it makes me feel better, despite the logical absurdity
 of it. However, I think I’d always have that nagging feeling that this
 was what I was going to do all along.
-213
 
-EP DEOGUE
+EP DEOGUE
 
 Can’t quote Kant: finding my own Nietzsche
-¥
 
 Alan bloody Harwood! It was all his fault.
 As I was nearing the end of the work chronicled in this book, I found
@@ -9045,9 +8130,7 @@ rehearsal, to link up a few of the right notes into something resembling
 the right order. Sadly, I couldn’t manage to play them at anything like
 the right speed. I remember the tune well: The Skye Boat Song. Sit me
 in front of a keyboard today and I can still tap out the sixteen notes
-214
 
-Growing Up with Lucy
 
 that I managed to burn into my brain at the time, but after that,
 everything is a complete blank. Alan, on the other hand, had better
@@ -9091,9 +8174,7 @@ why have I gone to such absurd and painful trouble to do everything
 the hard way, and what, if anything, does it prove?
 
 One of the ideas I’ve been trying to get across in this book is that
-215
 
-Steve Grand
 
 intelligence is not something we are born with but something we
 develop. Our brains pull themselves up by their own bootstraps, and
@@ -9133,9 +8214,7 @@ A second reason I come in for criticism is for making outrageous
 claims. I swear I do nothing of the kind, but people will insist on
 reading between lines that don’t exist. According to some people I am
 trying to create human-level intelligence; according to others I believe
-216
 
-Growing Up with Lucy
 
 that Lucy will become conscious. It’s not my fault if these people are
 unable to distinguish between human-level intelligence and mammallike intelligence (in other words, the kind of general learning capacity
@@ -9181,9 +8260,7 @@ way, rather than an incremental, easily measurable, collaborative one.
 
 Unfortunately, this is not what policy makers, institutions or indeed
 our education system seem to want to encourage.
-217
 
-Steve Grand
 
 Incidentally, I use the phrase ‘non-disciplinary’ rather than ‘interdisciplinary’ rather pointedly. Someone who was writing an article on
 Leonardo da Vinci recently asked me whether I thought a polymath
@@ -9222,9 +8299,7 @@ to think for themselves, but in practice the only efficient way to jump
 the hurdles of tests and exams is to fill their heads with the thoughts of
 others. Since this is the diary of one person’s uneducated, unspecialised
 attempt to understand the way we (and robots) learn, I would therefore
-218
 
-Growing Up with Lucy
 
 like to take this opportunity to put in a good word for the autodidacts
 and independent thinkers of this world.
@@ -9266,9 +8341,7 @@ to side, as my depth of understanding and intellectual confidence
 in the project advanced
 
 on the one hand, while our bank balance
-219
 
-Steve Grand
 
 simultaneously retreated on the other. I felt like a passenger on the
 Titanic, edging steadily but with frustrating slowness towards the secur-
@@ -9311,9 +8384,7 @@ for a girl to be intelligent when she can’t see properly, hear properly
 or have much effect on the world. But now I can afford decent tools
 and components, such as a lathe, a rapid prototyping system and
 better development software. It means going right back to square one
-220
 
-Growing Up with Lucy
 
 for a while, but a new body will be a huge improvement and greatly
 increase my ability to test out my ideas.
@@ -9354,9 +8425,7 @@ in control of the world itself, rather than of their responses to it. In a
 
 strange and rather disturbing way I’ve begun to feel like I’m pregnant
 myself, as if I were heavy with robot, so maybe I should simply
-221
 
-Steve Grand
 
 learn to live with the inevitability of it all. Once conceived,
 
@@ -9369,6 +8438,3 @@ wonder if I’m the master or just a willing slave. Perhaps this whole
 adventure was really part of Lucy’s plan all along. It wouldn’t surprise
 me. Girls can be so manipulative!
 
-222
-
-
