@@ -31,4 +31,9 @@ This is the initial project setup (`v0` scaffold).
 
 - Define chapter structure for the manifesto.
 - Produce first extracted notes set from `source.pdf`.
-- Deliver a draft `v0.1` manifesto document.
+- Refine said notes in `source.txt`.
+- Deliver and review `v0.1` manifesto draft at `docs/manifesto-v0.1.md`.
+- `v0.1` completion gate: `docs/manifesto-v0.1.md`.
+- `v0.1` completion gate: `docs/requirements.md`.
+- `v0.1` completion gate: `docs/architecture-ga144.md`.
+- `v0.1` completion gate: `docs/test-strategy.md`.
