@@ -26,6 +26,13 @@ Lucy should be treated as a developmental intelligence platform in which behavio
 - Build perception pipelines with tonotopic auditory decomposition and direction mapping.
 - Represent actuation through virtual muscle abstractions over practical actuators.
 
+## Target Outcome
+
+The `v0.1` package is oriented toward a single idealized output target: **Lucy Mk-II**.
+This figure is the reference anchor for architecture choices, requirement phrasing, and validation priorities.
+
+![Lucy Mk-II prototype concept](../figures/Lucy-Mk-II.png)
+
 ## System Boundaries for v0.1
 
 - In scope: architecture definition.
